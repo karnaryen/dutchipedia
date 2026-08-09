@@ -1,0 +1,80 @@
+/* ─── Brand primitives (iris family) ───────────────
+   Rosé Pine's iris, extended into a light ramp. Step 500 is Rosé Pine's
+   exact #907aa9 — lovely, but only 3.79:1 on white, so it rings and
+   decorates. Steps 600/700 are the ones that carry white or sit as text. */
+:root {
+  --iris-50: #faf8fc;
+  --iris-100: #efeaf3;
+  --iris-200: #ded4e6;
+  --iris-300: #c6b6d4;
+  --iris-400: #ab96c0;
+  --iris-500: #907aa9;
+  --iris-600: #7a66a0;
+  --iris-700: #63527f;
+  --iris-800: #473d5c;
+  --iris-900: #2b2438;
+}
+
+/* ─── Rosé Pine Dawn neutrals — light only ─────────
+   Greys carry a faint purple cast rather than Tailwind's warm stone;
+   that tint is most of what makes Rosé Pine feel like itself.
+   No `.dark` block: this site is light-only by design. */
+:root {
+  --radius: 0.625rem;
+
+  --background: #ffffff;
+  /* Rosé Pine Dawn's own text colour — 7.3:1 on white, clears AAA. */
+  --foreground: #575279;
+
+  --card: #ffffff;
+  --card-foreground: #575279;
+  --popover: #ffffff;
+  --popover-foreground: #575279;
+
+  --primary: var(--iris-600);
+  --primary-foreground: #ffffff;
+
+  --secondary: #f4f2f7;
+  --secondary-foreground: #47425f;
+
+  --muted: #f4f2f7;
+  /* Rosé Pine's `subtle` lands at 4.39:1 — a hair under AA, so this is a
+     half-step darker. */
+  --muted-foreground: #6f6b8a;
+
+  --accent: var(--iris-100);
+  --accent-foreground: var(--iris-700);
+
+  /* Rosé Pine's `love`, darkened from #b4637a (4.2:1) to clear AA as text. */
+  --destructive: #a4566d;
+
+  --border: #e6e1ec;
+  --input: #e6e1ec;
+  --ring: var(--iris-500);
+
+  /* Rosé Pine Dawn's own base colour, used as the mat behind imagery so
+     photos on white backgrounds still read as objects. The warm cream
+     against cool purple chrome is the contrast Dawn is built on. */
+  --surface-soft: #faf4ed;
+  --surface-soft-border: #ece2d8;
+
+  /* Link colour: iris-700 clears AA comfortably where iris-600 is only
+     just over at body size. */
+  --link: var(--iris-700);
+
+  /* Rosé Pine's accent family: iris, pine, foam, rose, gold. */
+  --chart-1: var(--iris-500);
+  --chart-2: #286983;
+  --chart-3: #56949f;
+  --chart-4: #d7827e;
+  --chart-5: #ea9d34;
+
+  --sidebar: #faf8fc;
+  --sidebar-foreground: #575279;
+  --sidebar-primary: var(--iris-600);
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: var(--iris-100);
+  --sidebar-accent-foreground: var(--iris-700);
+  --sidebar-border: #e6e1ec;
+  --sidebar-ring: var(--iris-500);
+}
