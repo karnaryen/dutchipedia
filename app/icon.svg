@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!--
+    Favicon: the brand mark on an iris tile, so it holds up against both light
+    and dark browser chrome.
+
+    Colours are literal because a favicon is fetched in isolation and never
+    sees the page's CSS, so a CSS custom property would not resolve here.
+    Values come from app/tokens.css: iris 700 tile, iris 900 book,
+    surface-soft page, iris 200 lens.
+
+    The lens is deliberately NOT the gold that components/logo.tsx uses. That
+    mark sits on a white page, where gold is the one warm accent; this one
+    sits on a dark iris tile, where a pale lavender lens keeps the light
+    tones consistent. Changing one does not oblige you to change the other.
+
+    Deliberately coarser than components/logo.tsx: no gloss dot, and a tile
+    coloured ring around the lens, because at 16px the lens and the page
+    otherwise merge into one light smudge.
+
+    Note for editors: an XML comment may not contain two consecutive hyphens,
+    which rules out writing CSS variable names in here.
+  -->
+  <rect width="64" height="64" rx="14" fill="#63527f" />
+  <g transform="translate(-2.2 -2.7) scale(2.04)">
+    <path
+      fill="#2b2438"
+      d="M6.4 5.8h9.2a10.9 10.9 0 0 1 0 21.8H6.4A1.4 1.4 0 0 1 5 26.2V7.2a1.4 1.4 0 0 1 1.4-1.4Z"
+    />
+    <path fill="#faf4ed" d="M7.4 10.9c3.6-2.4 7.2-2.4 10.8-.2l-1.8 3c-2.9-1.8-5.7-1.8-8.4 0z" />
+    <circle cx="19.6" cy="19.2" r="6.3" fill="#63527f" />
+    <path stroke="#2b2438" stroke-width="3" stroke-linecap="round" d="m23.6 23.2 3.3 3.5" />
+    <circle cx="19.6" cy="19.2" r="5.2" fill="#ded4e6" />
+  </g>
+</svg>

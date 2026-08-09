@@ -36,6 +36,10 @@
   --color-surface-soft-border: var(--surface-soft-border);
   --color-link: var(--link);
 
+  --color-brand-ink: var(--brand-ink);
+  --color-brand-page: var(--brand-page);
+  --color-brand-lens: var(--brand-lens);
+
   --color-iris-50: var(--iris-50);
   --color-iris-100: var(--iris-100);
   --color-iris-200: var(--iris-200);

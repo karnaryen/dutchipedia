@@ -62,6 +62,15 @@
      just over at body size. */
   --link: var(--iris-700);
 
+  /* ─── Brand mark ───
+     The logo's three tones, named separately so it can be restyled without
+     hunting through the SVG. `lens` is Rosé Pine's own `gold`; it is the one
+     warm note on the site and is exempt from the 4.5:1 rule because the mark
+     is decorative — the header renders "Dutchipedia" as real text beside it. */
+  --brand-ink: var(--iris-800);
+  --brand-page: var(--surface-soft);
+  --brand-lens: #ea9d34;
+
   /* Rosé Pine's accent family: iris, pine, foam, rose, gold. */
   --chart-1: var(--iris-500);
   --chart-2: #286983;
