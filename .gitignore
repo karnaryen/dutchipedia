@@ -42,3 +42,6 @@ next-env.d.ts
 
 # claude code local overrides
 .claude/settings.local.json
+
+# piper voice models fetched by scripts/generate-pronunciations.py
+.voices/

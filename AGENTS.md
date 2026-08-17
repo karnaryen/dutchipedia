@@ -92,13 +92,21 @@ When you do need a client component, push the boundary to the leaf. A `'use clie
 app/            routes, layouts, pages (Server Components by default)
 app/tokens.css  colour primitives + semantic tokens  ← all colour lives here
 components/ui/  shadcn-generated primitives (regenerate, don't hand-write)
-components/     app-specific composite components
+components/     app-specific composite components used across features
+features/<name>/  components, hooks and types for one area (words, work)
+content/<area>/   the words themselves: data files next to their images
 lib/            shared utilities (cn, data helpers)
 public/         static assets
 ```
 
+- Routes stay thin. A page picks the data and hands it to a `features/` component; the layout and wording live there, so three topic pages can share one body.
+- **Images live in `content/`, not `public/`.** They are imported statically, which gives Next the dimensions and a blur placeholder for free, and lets a missing file fail the build instead of 404ing in production.
+- **Audio is the exception: it lives in `public/audio/`.** Next has no static import for media, so clips are referenced by URL. That means a wrong path 404s silently instead of failing the build — check `WordEntry.audio` against the files on disk when you add words.
+- **Pronunciation is pre-generated, never `speechSynthesis`.** Browser TTS reads Dutch in an English voice for anyone without a Dutch voice installed. Clips come from `scripts/generate-pronunciations.py`.
+- **`scripts/word-topics.json` is the source of truth for words.** The photo, the clip and the credit have to agree, which is unmanageable by hand at ninety entries, so `content/words/<topic>/<topic>.ts` is generated. To add a word: add it there, then run `fetch-word-images.py <topic> --only <slug>`, `generate-pronunciations.py`, `generate-word-data.py`. Editing a generated `.ts` directly works until the next regeneration overwrites it.
+- Photos carry their licence. Every `WordEntry` has a `credit`, and the topic page renders it — most Wikimedia images are CC BY-SA and attribution is a condition of use, not a nicety.
 - Co-locate a component with its route if only that route uses it; promote to `components/` on the second consumer.
-- No barrel `index.ts` files — they defeat tree-shaking and slow the dev server.
+- No barrel `index.ts` files — they defeat tree-shaking and slow the dev server. Data modules are named for their contents (`content/words/trees/trees.ts`).
 - One component per file, named the same as the file.
 
 ## Working style
