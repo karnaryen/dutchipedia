@@ -17,7 +17,7 @@ export default function WordsPage() {
         how it sounds.
       </p>
 
-      <div className="mt-10 grid gap-4 sm:grid-cols-3">
+      <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
         <SectionCard
           href="/words/trees"
           dutchTitle="Bomen"
@@ -35,6 +35,12 @@ export default function WordsPage() {
           dutchTitle="Honden"
           title="Dogs"
           description="Thirty breeds, from de teckel to de Duitse dog."
+        />
+        <SectionCard
+          href="/words/instruments"
+          dutchTitle="Muziekinstrumenten"
+          title="Instruments"
+          description="Strings, winds, keys and percussion, from de viool to het drumstel."
         />
       </div>
     </div>

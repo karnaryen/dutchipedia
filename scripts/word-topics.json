@@ -1,20 +1,65 @@
 {
   "trees": [
-    { "slug": "beuk", "dutch": "de beuk", "english": "the beech", "article": "Fagus sylvatica" },
-    { "slug": "eik", "dutch": "de eik", "english": "the oak", "article": "Quercus robur" },
-    { "slug": "berk", "dutch": "de berk", "english": "the birch", "article": "Betula pendula" },
-    { "slug": "wilg", "dutch": "de wilg", "english": "the willow", "article": "Salix alba" },
+    {
+      "slug": "beuk",
+      "dutch": "de beuk",
+      "english": "the beech",
+      "article": "Fagus sylvatica"
+    },
+    {
+      "slug": "eik",
+      "dutch": "de eik",
+      "english": "the oak",
+      "article": "Quercus robur"
+    },
+    {
+      "slug": "berk",
+      "dutch": "de berk",
+      "english": "the birch",
+      "article": "Betula pendula"
+    },
+    {
+      "slug": "wilg",
+      "dutch": "de wilg",
+      "english": "the willow",
+      "article": "Salix alba"
+    },
     {
       "slug": "esdoorn",
       "dutch": "de esdoorn",
       "english": "the maple",
       "article": "Acer platanoides"
     },
-    { "slug": "linde", "dutch": "de linde", "english": "the linden", "article": "Tilia cordata" },
-    { "slug": "den", "dutch": "de den", "english": "the pine", "article": "Pinus sylvestris" },
-    { "slug": "spar", "dutch": "de spar", "english": "the spruce", "article": "Picea abies" },
-    { "slug": "iep", "dutch": "de iep", "english": "the elm", "article": "Ulmus glabra" },
-    { "slug": "es", "dutch": "de es", "english": "the ash", "article": "Fraxinus excelsior" },
+    {
+      "slug": "linde",
+      "dutch": "de linde",
+      "english": "the linden",
+      "article": "Tilia cordata"
+    },
+    {
+      "slug": "den",
+      "dutch": "de den",
+      "english": "the pine",
+      "article": "Pinus sylvestris"
+    },
+    {
+      "slug": "spar",
+      "dutch": "de spar",
+      "english": "the spruce",
+      "article": "Picea abies"
+    },
+    {
+      "slug": "iep",
+      "dutch": "de iep",
+      "english": "the elm",
+      "article": "Ulmus glabra"
+    },
+    {
+      "slug": "es",
+      "dutch": "de es",
+      "english": "the ash",
+      "article": "Fraxinus excelsior"
+    },
     {
       "slug": "populier",
       "dutch": "de populier",
@@ -33,15 +78,30 @@
       "english": "the hornbeam",
       "article": "Carpinus betulus"
     },
-    { "slug": "els", "dutch": "de els", "english": "the alder", "article": "Alnus glutinosa" },
+    {
+      "slug": "els",
+      "dutch": "de els",
+      "english": "the alder",
+      "article": "Alnus glutinosa"
+    },
     {
       "slug": "lijsterbes",
       "dutch": "de lijsterbes",
       "english": "the rowan",
       "article": "Sorbus aucuparia"
     },
-    { "slug": "hulst", "dutch": "de hulst", "english": "the holly", "article": "Ilex aquifolium" },
-    { "slug": "taxus", "dutch": "de taxus", "english": "the yew", "article": "Taxus baccata" },
+    {
+      "slug": "hulst",
+      "dutch": "de hulst",
+      "english": "the holly",
+      "article": "Ilex aquifolium"
+    },
+    {
+      "slug": "taxus",
+      "dutch": "de taxus",
+      "english": "the yew",
+      "article": "Taxus baccata"
+    },
     {
       "slug": "plataan",
       "dutch": "de plataan",
@@ -74,15 +134,30 @@
       "english": "the pear tree",
       "article": "Pyrus communis"
     },
-    { "slug": "vlier", "dutch": "de vlier", "english": "the elder", "article": "Sambucus nigra" },
+    {
+      "slug": "vlier",
+      "dutch": "de vlier",
+      "english": "the elder",
+      "article": "Sambucus nigra"
+    },
     {
       "slug": "meidoorn",
       "dutch": "de meidoorn",
       "english": "the hawthorn",
       "article": "Crataegus monogyna"
     },
-    { "slug": "lariks", "dutch": "de lariks", "english": "the larch", "article": "Larix decidua" },
-    { "slug": "ceder", "dutch": "de ceder", "english": "the cedar", "article": "Cedrus libani" },
+    {
+      "slug": "lariks",
+      "dutch": "de lariks",
+      "english": "the larch",
+      "article": "Larix decidua"
+    },
+    {
+      "slug": "ceder",
+      "dutch": "de ceder",
+      "english": "the cedar",
+      "article": "Cedrus libani"
+    },
     {
       "slug": "magnolia",
       "dutch": "de magnolia",
@@ -133,8 +208,18 @@
       "english": "the British Shorthair",
       "article": "British Shorthair"
     },
-    { "slug": "ragdoll", "dutch": "de ragdoll", "english": "the Ragdoll", "article": "Ragdoll" },
-    { "slug": "bengaal", "dutch": "de bengaal", "english": "the Bengal", "article": "Bengal cat" },
+    {
+      "slug": "ragdoll",
+      "dutch": "de ragdoll",
+      "english": "the Ragdoll",
+      "article": "Ragdoll"
+    },
+    {
+      "slug": "bengaal",
+      "dutch": "de bengaal",
+      "english": "the Bengal",
+      "article": "Bengal cat"
+    },
     {
       "slug": "noorse-boskat",
       "dutch": "de Noorse boskat",
@@ -159,7 +244,12 @@
       "english": "the Russian Blue",
       "article": "Russian Blue"
     },
-    { "slug": "sphynx", "dutch": "de sphynx", "english": "the Sphynx", "article": "Sphynx cat" },
+    {
+      "slug": "sphynx",
+      "dutch": "de sphynx",
+      "english": "the Sphynx",
+      "article": "Sphynx cat"
+    },
     {
       "slug": "schotse-vouwoor",
       "dutch": "de Schotse vouwoor",
@@ -196,14 +286,24 @@
       "english": "the Turkish Van",
       "article": "Turkish Van"
     },
-    { "slug": "bombay", "dutch": "de bombay", "english": "the Bombay", "article": "Bombay cat" },
+    {
+      "slug": "bombay",
+      "dutch": "de bombay",
+      "english": "the Bombay",
+      "article": "Bombay cat"
+    },
     {
       "slug": "burmees",
       "dutch": "de burmees",
       "english": "the Burmese",
       "article": "Burmese cat"
     },
-    { "slug": "ocicat", "dutch": "de ocicat", "english": "the Ocicat", "article": "Ocicat" },
+    {
+      "slug": "ocicat",
+      "dutch": "de ocicat",
+      "english": "the Ocicat",
+      "article": "Ocicat"
+    },
     {
       "slug": "savannah",
       "dutch": "de savannah",
@@ -216,7 +316,12 @@
       "english": "the Munchkin",
       "article": "Munchkin cat"
     },
-    { "slug": "manx", "dutch": "de manx", "english": "the Manx", "article": "Manx cat" },
+    {
+      "slug": "manx",
+      "dutch": "de manx",
+      "english": "the Manx",
+      "article": "Manx cat"
+    },
     {
       "slug": "siberische-kat",
       "dutch": "de Siberische kat",
@@ -241,7 +346,12 @@
       "english": "the Exotic Shorthair",
       "article": "Exotic Shorthair"
     },
-    { "slug": "somali", "dutch": "de somali", "english": "the Somali", "article": "Somali cat" },
+    {
+      "slug": "somali",
+      "dutch": "de somali",
+      "english": "the Somali",
+      "article": "Somali cat"
+    },
     {
       "slug": "tonkinees",
       "dutch": "de tonkinees",
@@ -268,29 +378,54 @@
       "english": "the German Shepherd",
       "article": "German Shepherd Dog"
     },
-    { "slug": "teckel", "dutch": "de teckel", "english": "the dachshund", "article": "Dachshund" },
-    { "slug": "poedel", "dutch": "de poedel", "english": "the poodle", "article": "Poodle" },
+    {
+      "slug": "teckel",
+      "dutch": "de teckel",
+      "english": "the dachshund",
+      "article": "Dachshund"
+    },
+    {
+      "slug": "poedel",
+      "dutch": "de poedel",
+      "english": "the poodle",
+      "article": "Poodle"
+    },
     {
       "slug": "golden-retriever",
       "dutch": "de golden retriever",
       "english": "the Golden Retriever",
       "article": "Golden Retriever"
     },
-    { "slug": "beagle", "dutch": "de beagle", "english": "the beagle", "article": "Beagle" },
+    {
+      "slug": "beagle",
+      "dutch": "de beagle",
+      "english": "the beagle",
+      "article": "Beagle"
+    },
     {
       "slug": "rottweiler",
       "dutch": "de rottweiler",
       "english": "the Rottweiler",
       "article": "Rottweiler"
     },
-    { "slug": "boxer", "dutch": "de boxer", "english": "the boxer", "article": "Boxer (dog)" },
+    {
+      "slug": "boxer",
+      "dutch": "de boxer",
+      "english": "the boxer",
+      "article": "Boxer (dog)"
+    },
     {
       "slug": "chihuahua",
       "dutch": "de chihuahua",
       "english": "the chihuahua",
       "article": "Chihuahua (dog breed)"
     },
-    { "slug": "mopshond", "dutch": "de mopshond", "english": "the pug", "article": "Pug" },
+    {
+      "slug": "mopshond",
+      "dutch": "de mopshond",
+      "english": "the pug",
+      "article": "Pug"
+    },
     {
       "slug": "husky",
       "dutch": "de Siberische husky",
@@ -381,7 +516,12 @@
       "english": "the Australian Shepherd",
       "article": "Australian Shepherd"
     },
-    { "slug": "whippet", "dutch": "de whippet", "english": "the whippet", "article": "Whippet" },
+    {
+      "slug": "whippet",
+      "dutch": "de whippet",
+      "english": "the whippet",
+      "article": "Whippet"
+    },
     {
       "slug": "basset",
       "dutch": "de bassethond",
@@ -405,6 +545,300 @@
       "dutch": "de windhond",
       "english": "the greyhound",
       "article": "Greyhound"
+    }
+  ],
+  "instruments": [
+    {
+      "slug": "gitaar",
+      "dutch": "de gitaar",
+      "english": "the guitar",
+      "article": "Guitar"
+    },
+    {
+      "slug": "basgitaar",
+      "dutch": "de basgitaar",
+      "english": "the bass guitar",
+      "article": "Bass guitar"
+    },
+    {
+      "slug": "viool",
+      "dutch": "de viool",
+      "english": "the violin",
+      "article": "Violin"
+    },
+    {
+      "slug": "altviool",
+      "dutch": "de altviool",
+      "english": "the viola",
+      "article": "Viola"
+    },
+    {
+      "slug": "cello",
+      "dutch": "de cello",
+      "english": "the cello",
+      "article": "Cello"
+    },
+    {
+      "slug": "contrabas",
+      "dutch": "de contrabas",
+      "english": "the double bass",
+      "article": "Double bass"
+    },
+    {
+      "slug": "harp",
+      "dutch": "de harp",
+      "english": "the harp",
+      "article": "Harp"
+    },
+    {
+      "slug": "piano",
+      "dutch": "de piano",
+      "english": "the piano",
+      "article": "Piano"
+    },
+    {
+      "slug": "klavecimbel",
+      "dutch": "het klavecimbel",
+      "english": "the harpsichord",
+      "article": "Harpsichord"
+    },
+    {
+      "slug": "orgel",
+      "dutch": "het orgel",
+      "english": "the organ",
+      "article": "Pipe organ"
+    },
+    {
+      "slug": "harmonium",
+      "dutch": "het harmonium",
+      "english": "the harmonium",
+      "article": "Harmonium"
+    },
+    {
+      "slug": "accordeon",
+      "dutch": "het accordeon",
+      "english": "the accordion",
+      "article": "Accordion"
+    },
+    {
+      "slug": "mondharmonica",
+      "dutch": "de mondharmonica",
+      "english": "the harmonica",
+      "article": "Harmonica"
+    },
+    {
+      "slug": "trompet",
+      "dutch": "de trompet",
+      "english": "the trumpet",
+      "article": "Trumpet"
+    },
+    {
+      "slug": "kornet",
+      "dutch": "de kornet",
+      "english": "the cornet",
+      "article": "Cornet"
+    },
+    {
+      "slug": "bugel",
+      "dutch": "de bugel",
+      "english": "the flugelhorn",
+      "article": "Flugelhorn"
+    },
+    {
+      "slug": "trombone",
+      "dutch": "de trombone",
+      "english": "the trombone",
+      "article": "Trombone"
+    },
+    {
+      "slug": "dwarsfluit",
+      "dutch": "de dwarsfluit",
+      "english": "the flute",
+      "article": "Western concert flute"
+    },
+    {
+      "slug": "piccolo",
+      "dutch": "de piccolo",
+      "english": "the piccolo",
+      "article": "Piccolo"
+    },
+    {
+      "slug": "blokfluit",
+      "dutch": "de blokfluit",
+      "english": "the recorder",
+      "article": "Recorder (musical instrument)"
+    },
+    {
+      "slug": "panfluit",
+      "dutch": "de panfluit",
+      "english": "the pan flute",
+      "article": "Pan flute"
+    },
+    {
+      "slug": "klarinet",
+      "dutch": "de klarinet",
+      "english": "the clarinet",
+      "article": "Clarinet"
+    },
+    {
+      "slug": "hobo",
+      "dutch": "de hobo",
+      "english": "the oboe",
+      "article": "Oboe"
+    },
+    {
+      "slug": "saxofoon",
+      "dutch": "de saxofoon",
+      "english": "the saxophone",
+      "article": "Saxophone"
+    },
+    {
+      "slug": "doedelzak",
+      "dutch": "de doedelzak",
+      "english": "the bagpipes",
+      "article": "Bagpipes"
+    },
+    {
+      "slug": "ocarina",
+      "dutch": "de ocarina",
+      "english": "the ocarina",
+      "article": "Ocarina"
+    },
+    {
+      "slug": "drumstel",
+      "dutch": "het drumstel",
+      "english": "the drum kit",
+      "article": "Drum kit"
+    },
+    {
+      "slug": "kleine-trom",
+      "dutch": "de kleine trom",
+      "english": "the snare drum",
+      "article": "Snare drum",
+      "file": "Imperial-Drums Piccolo-Snare-black.jpg",
+      "note": "Pinned: the article's lead image is 200px wide, too soft for the card. This one is a clean CC BY-SA 4.0 studio shot."
+    },
+    {
+      "slug": "pauk",
+      "dutch": "de pauk",
+      "english": "the timpani",
+      "article": "Timpani",
+      "file": "Burgwindheim Pauken-20180909-RM-150632.jpg",
+      "note": "Pinned: the article's lead image is 300px wide. This one shows a pair of kettledrums at usable size."
+    },
+    {
+      "slug": "bekken",
+      "dutch": "het bekken",
+      "english": "the cymbal",
+      "article": "Cymbal"
+    },
+    {
+      "slug": "tamboerijn",
+      "dutch": "de tamboerijn",
+      "english": "the tambourine",
+      "article": "Tambourine"
+    },
+    {
+      "slug": "triangel",
+      "dutch": "de triangel",
+      "english": "the triangle",
+      "article": "Triangle (musical instrument)"
+    },
+    {
+      "slug": "marimba",
+      "dutch": "de marimba",
+      "english": "the marimba",
+      "article": "Marimba"
+    },
+    {
+      "slug": "gong",
+      "dutch": "de gong",
+      "english": "the gong",
+      "article": "Gong"
+    },
+    {
+      "slug": "djembe",
+      "dutch": "de djembe",
+      "english": "the djembe",
+      "article": "Djembe"
+    },
+    {
+      "slug": "conga",
+      "dutch": "de conga",
+      "english": "the conga",
+      "article": "Conga"
+    },
+    {
+      "slug": "maracas",
+      "dutch": "de maracas",
+      "english": "the maracas",
+      "article": "Maraca"
+    },
+    {
+      "slug": "castagnetten",
+      "dutch": "de castagnetten",
+      "english": "the castanets",
+      "article": "Castanets"
+    },
+    {
+      "slug": "mandoline",
+      "dutch": "de mandoline",
+      "english": "the mandolin",
+      "article": "Mandolin"
+    },
+    {
+      "slug": "luit",
+      "dutch": "de luit",
+      "english": "the lute",
+      "article": "Lute"
+    },
+    {
+      "slug": "citer",
+      "dutch": "de citer",
+      "english": "the zither",
+      "article": "Zither"
+    },
+    {
+      "slug": "sitar",
+      "dutch": "de sitar",
+      "english": "the sitar",
+      "article": "Sitar"
+    },
+    {
+      "slug": "balalaika",
+      "dutch": "de balalaika",
+      "english": "the balalaika",
+      "article": "Balalaika"
+    },
+    {
+      "slug": "draailier",
+      "dutch": "de draailier",
+      "english": "the hurdy-gurdy",
+      "article": "Hurdy-gurdy"
+    },
+    {
+      "slug": "didgeridoo",
+      "dutch": "de didgeridoo",
+      "english": "the didgeridoo",
+      "article": "Didgeridoo"
+    },
+    {
+      "slug": "steeldrum",
+      "dutch": "de steeldrum",
+      "english": "the steelpan",
+      "article": "Steelpan"
+    },
+    {
+      "slug": "synthesizer",
+      "dutch": "de synthesizer",
+      "english": "the synthesizer",
+      "article": "Synthesizer"
+    },
+    {
+      "slug": "theremin",
+      "dutch": "de theremin",
+      "english": "the theremin",
+      "article": "Theremin"
     }
   ]
 }
