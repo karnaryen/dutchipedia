@@ -3,6 +3,7 @@ import './globals.css';
 import type { Metadata } from 'next';
 import { Geist, Geist_Mono } from 'next/font/google';
 
+import { Analytics } from '@/components/analytics';
 import { Footer } from '@/components/footer';
 import { Header } from '@/components/header';
 
@@ -30,6 +31,7 @@ export default function RootLayout({ children }: LayoutProps<'/'>) {
             short pages instead of floating mid-screen. */}
         <main className="flex-1">{children}</main>
         <Footer />
+        <Analytics />
       </body>
     </html>
   );
