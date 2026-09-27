@@ -45,3 +45,6 @@ yarn-error.log*
 
 # piper voice models fetched by scripts/generate-pronunciations.py
 .voices/
+
+# JetBrains IDEs
+.idea/
