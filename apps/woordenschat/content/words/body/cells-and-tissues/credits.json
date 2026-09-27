@@ -1,56 +1,56 @@
 {
   "bindweefsel": {
     "artist": "OpenStax College",
-    "bytes": 85763,
-    "extension": "jpg",
+    "bytes": 51478,
+    "extension": "webp",
     "file": "408 Connective Tissue.jpg",
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
   },
   "cel": {
     "artist": "Unknown author",
-    "bytes": 56634,
-    "extension": "jpg",
+    "bytes": 34344,
+    "extension": "webp",
     "file": "Typical_human_cell.tif",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
   },
   "celkern": {
     "artist": "TenOfAllTrades at English Wikipedia",
-    "bytes": 30683,
-    "extension": "jpg",
+    "bytes": 20958,
+    "extension": "webp",
     "file": "HeLa_cells_stained_with_Hoechst_33258.jpg",
     "license": "Public domain",
     "licenseUrl": ""
   },
   "celmembraan": {
     "artist": "Dhatfield",
-    "bytes": 266510,
-    "extension": "png",
+    "bytes": 105214,
+    "extension": "webp",
     "file": "Cell_membrane_detailed_diagram_4.svg",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   },
   "chromosoom": {
     "artist": "File:Chromosome-upright.png Original version: Magnus Manske, this…",
-    "bytes": 186832,
-    "extension": "png",
+    "bytes": 100832,
+    "extension": "webp",
     "file": "Chromosome.svg",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
   },
   "mitochondrium": {
     "artist": "Mariana Ruiz Villarreal LadyofHats",
-    "bytes": 238274,
-    "extension": "png",
+    "bytes": 62882,
+    "extension": "webp",
     "file": "Animal_mitochondrion_diagram_en.svg",
     "license": "Public domain",
     "licenseUrl": ""
   },
   "orgaan": {
     "artist": "Mikael Häggström",
-    "bytes": 187142,
-    "extension": "png",
+    "bytes": 60432,
+    "extension": "webp",
     "file": "Internal_organs.png",
     "license": "Public domain",
     "licenseUrl": ""
@@ -65,32 +65,32 @@
   },
   "stamcel": {
     "artist": "Mike Jones",
-    "bytes": 271789,
-    "extension": "png",
+    "bytes": 45804,
+    "extension": "webp",
     "file": "Stem cells diagram.png",
     "license": "CC BY-SA 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
   },
   "vetweefsel": {
     "artist": "BruceBlaus",
-    "bytes": 186446,
-    "extension": "png",
+    "bytes": 21726,
+    "extension": "webp",
     "file": "Blausen 0012 AdiposeTissue.png",
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
   },
   "weefsel": {
     "artist": "OpenStax College",
-    "bytes": 162418,
-    "extension": "jpg",
+    "bytes": 91444,
+    "extension": "webp",
     "file": "401 Types of Tissue.jpg",
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
   },
   "zenuwweefsel": {
     "artist": "BruceBlaus",
-    "bytes": 129883,
-    "extension": "png",
+    "bytes": 23366,
+    "extension": "webp",
     "file": "Blausen_0672_NeuralTissue.png",
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0"

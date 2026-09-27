@@ -1,210 +1,240 @@
 {
   "appelboom": {
     "artist": "Helge Klaus Rieder",
-    "bytes": 646635,
+    "bytes": 118346,
+    "extension": "webp",
     "file": "Elstar Freilichtmuseum Roscheider Hof Ganzer Baum H2.jpg",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
   },
   "berk": {
     "artist": "Percita at Flickr",
-    "bytes": 435777,
+    "bytes": 178948,
+    "extension": "webp",
     "file": "Betula_pendula_Finland.jpg",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
   },
   "beuk": {
     "artist": "GooseCanada",
-    "bytes": 757019,
+    "bytes": 171584,
+    "extension": "webp",
     "file": "Fagus-sylvatica-cansiglio-forest-italy.jpg",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
   },
   "ceder": {
     "artist": "Olivier BEZES",
-    "bytes": 303121,
+    "bytes": 107848,
+    "extension": "webp",
     "file": "Cèdre_du_Liban_Barouk_2005.jpg",
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
   },
   "den": {
     "artist": "Mickaël Delcey (Silverkey)",
-    "bytes": 508766,
+    "bytes": 71218,
+    "extension": "webp",
     "file": "Skuleskogen_pine.jpg",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   },
   "eik": {
     "artist": "Wikimedia Commons contributor",
-    "bytes": 102389,
+    "bytes": 30076,
+    "extension": "webp",
     "file": "Quercus_robur.jpg",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
   },
   "els": {
     "artist": "AnRo0002",
-    "bytes": 398912,
+    "bytes": 76222,
+    "extension": "webp",
     "file": "20120904Alnus_glutinosa01.jpg",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
   },
   "es": {
     "artist": "No machine-readable author provided. MPF assumed (based on copyright c",
-    "bytes": 208176,
+    "bytes": 74914,
+    "extension": "webp",
     "file": "Fraxinus_excelsior.jpg",
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
   },
   "esdoorn": {
     "artist": "Martin Bobka (= Martin120)",
-    "bytes": 199880,
+    "bytes": 58700,
+    "extension": "webp",
     "file": "Spitz-Ahorn(mbo).jpg",
     "license": "CC BY-SA 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
   },
   "haagbeuk": {
     "artist": "Willow",
-    "bytes": 361566,
+    "bytes": 124464,
+    "extension": "webp",
     "file": "Carpinus_betulus_-_Hunsrück_001.jpg",
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
   },
   "hulst": {
     "artist": "Jürgen Howaldt",
-    "bytes": 170132,
+    "bytes": 53550,
+    "extension": "webp",
     "file": "Ilex-aquifolium_(Europaeische_Stechpalme-1).jpg",
     "license": "CC BY-SA 2.0 de",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en"
   },
   "iep": {
     "artist": "Ronnie Nijboer",
-    "bytes": 166306,
+    "bytes": 84182,
+    "extension": "webp",
     "file": "RN_Ulmus_glabra_(alnarp_sweden).jpg",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
   },
   "jeneverbes": {
     "artist": "Rasbak at Dutch Wikipedia",
-    "bytes": 389027,
+    "bytes": 78358,
+    "extension": "webp",
     "file": "Jeneverbes.jpg",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
   },
   "kastanje": {
     "artist": "User:Kilom691",
-    "bytes": 463521,
+    "bytes": 53802,
+    "extension": "webp",
     "file": "Illustration_Aesculus_hippocastanum0_clean.jpg",
     "license": "Public domain",
     "licenseUrl": ""
   },
   "kersenboom": {
     "artist": "MPF",
-    "bytes": 334326,
+    "bytes": 109150,
+    "extension": "webp",
     "file": "Prunus_avium_fruit.jpg",
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
   },
   "lariks": {
     "artist": "Dominicus Johannes Bergsma",
-    "bytes": 161955,
+    "bytes": 46892,
+    "extension": "webp",
     "file": "L'A_de_Bran,_(1798_m)_Val_d'Anniviers._Europese_larix_(Larix_decidua)_01.JPG",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
   },
   "lijsterbes": {
     "artist": "Eeno11",
-    "bytes": 272533,
+    "bytes": 106738,
+    "extension": "webp",
     "file": "Rowan_tree_20081002b.jpg",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   },
   "linde": {
     "artist": "Wikimedia Commons contributor",
-    "bytes": 83579,
+    "bytes": 47062,
+    "extension": "webp",
     "file": "Tilia-cordata2.JPG",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
   },
   "magnolia": {
     "artist": "William (Ned) Friedman",
-    "bytes": 129432,
+    "bytes": 29792,
+    "extension": "webp",
     "file": "Magnolia_sieboldii_flower_1.jpg",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
   },
   "meidoorn": {
     "artist": "Elstro",
-    "bytes": 175868,
+    "bytes": 62090,
+    "extension": "webp",
     "file": "Hawthorn_fruit.JPG",
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
   },
   "olijfboom": {
     "artist": "en:User:Nickfraser",
-    "bytes": 73773,
+    "bytes": 58256,
+    "extension": "webp",
     "file": "Olivesfromjordan.jpg",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
   },
   "perenboom": {
     "artist": "Keith Weller",
-    "bytes": 135670,
+    "bytes": 30328,
+    "extension": "webp",
     "file": "Pears.jpg",
     "license": "Public domain",
     "licenseUrl": ""
   },
   "plataan": {
     "artist": "uncredited",
-    "bytes": 321492,
+    "bytes": 112528,
+    "extension": "webp",
     "file": "Plane_tree_Grove_Tsav_River.jpg",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   },
   "populier": {
     "artist": "Kenraiz",
-    "bytes": 132452,
+    "bytes": 39436,
+    "extension": "webp",
     "file": "Populus_nigra_kz1.jpg",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
   },
   "spar": {
     "artist": "Ivar Leidus",
-    "bytes": 493253,
+    "bytes": 58204,
+    "extension": "webp",
     "file": "Kuusk_Keila-Paldiski_rdt_ääres.jpg",
     "license": "CC BY-SA 3.0 ee",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/ee/deed.en"
   },
   "taxus": {
     "artist": "Didier Descouens",
-    "bytes": 237193,
+    "bytes": 66236,
+    "extension": "webp",
     "file": "Taxus_baccata_MHNT.jpg",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
   },
   "treurwilg": {
     "artist": "Fab5669",
-    "bytes": 501341,
+    "bytes": 106528,
+    "extension": "webp",
     "file": "Château_de_Chenonceau_-_jardin_Russell-Page_(01).jpg",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
   },
   "vlier": {
     "artist": "Willow",
-    "bytes": 331668,
+    "bytes": 127382,
+    "extension": "webp",
     "file": "Sambucus_nigra_004.jpg",
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
   },
   "walnoot": {
     "artist": "Thesupermat",
-    "bytes": 313967,
+    "bytes": 113012,
+    "extension": "webp",
     "file": "Noyer_centenaire_en_automne.JPG",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   },
   "wilg": {
     "artist": "MPF",
-    "bytes": 264079,
+    "bytes": 102058,
+    "extension": "webp",
     "file": "Salix_alba_leaves.jpg",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"

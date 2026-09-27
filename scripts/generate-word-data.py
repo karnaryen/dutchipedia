@@ -51,9 +51,9 @@ def identifier(slug: str) -> str:
 
 
 def extension(credit: dict) -> str:
-    """The saved image's format. A Commons SVG is fetched as a PNG, so the
-    extension is whatever fetch-word-images.py recorded; the photographs
-    predate that field and are all JPEG."""
+    """The saved image's format: whatever fetch-word-images.py recorded, or
+    compress-word-images.py after it. A manifest from before that field
+    existed holds JPEGs."""
     return credit.get("extension", "jpg")
 
 

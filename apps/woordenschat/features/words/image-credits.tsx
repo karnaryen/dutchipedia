@@ -9,12 +9,12 @@ export function ImageCredits({ entries }: { entries: WordEntry[] }) {
       <h2 id="credits" className="text-sm font-medium">
         Image credits
       </h2>
-      {/* Every image here was resized, and a drawing that Commons holds as
-          an SVG was rendered to PNG on the way, hence the blanket line. */}
+      {/* Every image here was resized and re-encoded as WebP, a drawing that
+          Commons holds as an SVG included, hence the blanket line. */}
       <p className="mt-2 max-w-2xl text-xs text-muted-foreground">
         Photographs and drawings come from Wikimedia Commons and are reproduced under the licences
-        below. All have been resized for this site, and vector drawings converted to PNG; they are
-        otherwise unaltered.
+        below. All have been resized and converted to WebP for this site; they are otherwise
+        unaltered.
       </p>
       {/* Commons file names run to fifty unbroken characters with underscores;
           without wrap-anywhere one of them widens the page on a phone. */}
