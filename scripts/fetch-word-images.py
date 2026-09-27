@@ -36,7 +36,8 @@ import urllib.parse
 import urllib.request
 
 UA = "Dutchipedia/1.0 (learning-project dev setup)"
-ROOT = pathlib.Path(__file__).resolve().parent.parent
+# The words live in the woordenschat zone, not at the repo root.
+ROOT = pathlib.Path(__file__).resolve().parent.parent / "apps" / "woordenschat"
 CONTENT = ROOT / "content" / "words"
 
 # Above this, re-request a narrower thumbnail — a handful of photographs are
@@ -139,7 +140,7 @@ def main() -> int:
     failures = []
 
     for topic in args.topics:
-        entries = definitions[topic]
+        entries = definitions[topic]["words"]
         (CONTENT / topic).mkdir(parents=True, exist_ok=True)
         manifest_path = CONTENT / topic / "credits.json"
         manifest = json.loads(manifest_path.read_text()) if manifest_path.exists() else {}

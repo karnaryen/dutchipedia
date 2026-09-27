@@ -17,15 +17,15 @@ const __dirname = path.dirname(__filename);
 const eslintConfig = defineConfig([
   // Override default ignores of eslint-config-next.
   globalIgnores([
-    // Default ignores of eslint-config-next:
-    '.next/**',
-    'out/**',
-    'build/**',
-    'next-env.d.ts',
+    // Default ignores of eslint-config-next, widened to every workspace app:
+    '**/.next/**',
+    '**/out/**',
+    '**/build/**',
+    '**/next-env.d.ts',
     // Extra ignores:
-    'dist/**',
-    'coverage/**',
-    'node_modules/**',
+    '**/dist/**',
+    '**/coverage/**',
+    '**/node_modules/**',
     '.turbo/**',
     '**/*.min.*',
     '**/generated/**',
@@ -41,6 +41,9 @@ const eslintConfig = defineConfig([
 
   {
     files: ['**/*.{js,jsx,ts,tsx,mjs,cjs}'],
+    // The Next plugin looks for `app/` and `pages/` relative to rootDir. One
+    // config lints every zone, so point it at all of them.
+    settings: { next: { rootDir: ['apps/*/'] } },
     languageOptions: {
       ecmaVersion: 'latest',
       sourceType: 'module',
@@ -50,7 +53,7 @@ const eslintConfig = defineConfig([
       },
       parserOptions: {
         projectService: {
-          allowDefaultProject: ['*.mjs', '*.cjs', '*.js'],
+          allowDefaultProject: ['*.cjs', '*.js', 'apps/*/*.mjs', 'packages/*/*.mjs'],
         },
         tsconfigRootDir: __dirname,
       },

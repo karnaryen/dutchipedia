@@ -29,8 +29,10 @@ import subprocess
 import sys
 import tempfile
 
-ROOT = pathlib.Path(__file__).resolve().parent.parent
-VOICE = ROOT / ".voices" / "nl_NL-ronnie-medium.onnx"
+REPO = pathlib.Path(__file__).resolve().parent.parent
+# The words live in the woordenschat zone, not at the repo root.
+ROOT = REPO / "apps" / "woordenschat"
+VOICE = REPO / ".voices" / "nl_NL-ronnie-medium.onnx"
 DEST = ROOT / "public" / "audio" / "words"
 TOPICS = json.loads((pathlib.Path(__file__).resolve().parent / "word-topics.json").read_text())
 
@@ -49,9 +51,9 @@ def main() -> int:
 
     made = skipped = 0
     with tempfile.TemporaryDirectory() as tmp:
-        for topic, entries in TOPICS.items():
+        for topic, definition in TOPICS.items():
             (DEST / topic).mkdir(parents=True, exist_ok=True)
-            for entry in entries:
+            for entry in definition["words"]:
                 out = DEST / topic / f"{entry['slug']}.m4a"
                 if out.exists() and not args.force:
                     skipped += 1
@@ -70,7 +72,7 @@ def main() -> int:
                     capture_output=True,
                 )
                 made += 1
-                print(f"{out.relative_to(ROOT)}  {out.stat().st_size // 1024}KB  {entry['dutch']!r}")
+                print(f"{out.relative_to(REPO)}  {out.stat().st_size // 1024}KB  {entry['dutch']!r}")
 
     print(f"\n{made} generated, {skipped} already present")
     return 0

@@ -1,0 +1,23 @@
+{
+  "$schema": "https://ui.shadcn.com/schema.json",
+  "style": "base-maia",
+  "rsc": true,
+  "tsx": true,
+  "tailwind": {
+    "config": "",
+    "css": "src/styles/globals.css",
+    "baseColor": "stone",
+    "cssVariables": true,
+    "prefix": ""
+  },
+  "iconLibrary": "lucide",
+  "rtl": false,
+  "aliases": {
+    "components": "@dutchipedia/ui/components",
+    "ui": "@dutchipedia/ui/components/ui",
+    "utils": "@dutchipedia/ui/lib/utils",
+    "lib": "@dutchipedia/ui/lib",
+    "hooks": "@dutchipedia/ui/hooks"
+  },
+  "registries": {}
+}
