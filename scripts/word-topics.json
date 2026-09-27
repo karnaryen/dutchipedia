@@ -860,5 +860,1561 @@
         "article": "Theremin"
       }
     ]
+  },
+  "body": {
+    "title": "The human body",
+    "dutchTitle": "Het lichaam",
+    "description": "The body inside and out: body parts, senses, organs and the systems they form.",
+    "groups": [
+      {
+        "title": "On the outside",
+        "dutchTitle": "Van buiten",
+        "topics": {
+          "body-parts": {
+            "title": "Body parts",
+            "dutchTitle": "Lichaamsdelen",
+            "description": "What you can point at, from het hoofd down to de teen.",
+            "words": [
+              {
+                "slug": "hoofd",
+                "dutch": "het hoofd",
+                "english": "the head",
+                "article": "Human head",
+                "file": "Head of a bald man in profile to left MET DP823701.jpg",
+                "note": "Pinned: the article leads with a faint Leonardo sketch crossed by ruled lines."
+              },
+              {
+                "slug": "gezicht",
+                "dutch": "het gezicht",
+                "english": "the face",
+                "article": "Face"
+              },
+              {
+                "slug": "voorhoofd",
+                "dutch": "het voorhoofd",
+                "english": "the forehead",
+                "article": "Forehead"
+              },
+              {
+                "slug": "wang",
+                "dutch": "de wang",
+                "english": "the cheek",
+                "article": "Cheek"
+              },
+              {
+                "slug": "kin",
+                "dutch": "de kin",
+                "english": "the chin",
+                "article": "Chin",
+                "file": "Cleft-Chin.jpg",
+                "note": "Pinned: the article leads with a skull whose chin bone is painted white.",
+                "author": "Unknown author; cropped by Tizio"
+              },
+              {
+                "slug": "kaak",
+                "dutch": "de kaak",
+                "english": "the jaw",
+                "article": "Jaw"
+              },
+              {
+                "slug": "nek",
+                "dutch": "de nek",
+                "english": "the neck",
+                "article": "Neck",
+                "file": "Neck by David Shankbone.jpg",
+                "note": "Pinned: the article leads with a labelled engraving from Gray's Anatomy, which de adamsappel would share. A body part wants a photograph."
+              },
+              {
+                "slug": "schouder",
+                "dutch": "de schouder",
+                "english": "the shoulder",
+                "article": "Shoulder"
+              },
+              {
+                "slug": "oksel",
+                "dutch": "de oksel",
+                "english": "the armpit",
+                "article": "Axilla"
+              },
+              {
+                "slug": "arm",
+                "dutch": "de arm",
+                "english": "the arm",
+                "article": "Arm"
+              },
+              {
+                "slug": "elleboog",
+                "dutch": "de elleboog",
+                "english": "the elbow",
+                "article": "Elbow"
+              },
+              {
+                "slug": "pols",
+                "dutch": "de pols",
+                "english": "the wrist",
+                "article": "Wrist",
+                "author": "Tomasz Sienicki"
+              },
+              {
+                "slug": "hand",
+                "dutch": "de hand",
+                "english": "the hand",
+                "article": "Hand"
+              },
+              {
+                "slug": "handpalm",
+                "dutch": "de handpalm",
+                "english": "the palm",
+                "article": "Palm (hand)",
+                "file": "Human-Hands-Front-Back.jpg",
+                "note": "Pinned: the article leads with the back of a hand, the picture de hand uses."
+              },
+              {
+                "slug": "vuist",
+                "dutch": "de vuist",
+                "english": "the fist",
+                "article": "Fist",
+                "file": "Clenched fist.jpg",
+                "note": "Pinned: the Fist article has no lead image."
+              },
+              {
+                "slug": "vinger",
+                "dutch": "de vinger",
+                "english": "the finger",
+                "article": "Finger"
+              },
+              {
+                "slug": "duim",
+                "dutch": "de duim",
+                "english": "the thumb",
+                "article": "Thumb"
+              },
+              {
+                "slug": "wijsvinger",
+                "dutch": "de wijsvinger",
+                "english": "the index finger",
+                "article": "Index finger"
+              },
+              {
+                "slug": "pink",
+                "dutch": "de pink",
+                "english": "the little finger",
+                "article": "Little finger"
+              },
+              {
+                "slug": "borst",
+                "dutch": "de borst",
+                "english": "the chest",
+                "article": "Thorax",
+                "file": "Bodymorphproj DanielMMS modB001 20211025 posA01.jpg",
+                "note": "Pinned: the Thorax article leads with a chest X-ray."
+              },
+              {
+                "slug": "buik",
+                "dutch": "de buik",
+                "english": "the belly",
+                "article": "Abdomen"
+              },
+              {
+                "slug": "navel",
+                "dutch": "de navel",
+                "english": "the navel",
+                "article": "Navel"
+              },
+              {
+                "slug": "rug",
+                "dutch": "de rug",
+                "english": "the back",
+                "article": "Human back",
+                "file": "A man with naked torso viewed from behind. Photograph by L. Wellcome V0029425.jpg",
+                "note": "Pinned: the article leads with a pair of full-length nudes.",
+                "author": "Wellcome Collection"
+              },
+              {
+                "slug": "heup",
+                "dutch": "de heup",
+                "english": "the hip",
+                "article": "Hip",
+                "author": "Protohiro at English Wikipedia; later versions by Daoui and Andrew pmk"
+              },
+              {
+                "slug": "been",
+                "dutch": "het been",
+                "english": "the leg",
+                "article": "Human leg"
+              },
+              {
+                "slug": "dij",
+                "dutch": "de dij",
+                "english": "the thigh",
+                "article": "Thigh"
+              },
+              {
+                "slug": "knie",
+                "dutch": "de knie",
+                "english": "the knee",
+                "article": "Knee"
+              },
+              {
+                "slug": "kuit",
+                "dutch": "de kuit",
+                "english": "the calf",
+                "article": "Calf (leg)",
+                "file": "Sb calf (cropped).png",
+                "note": "Pinned: the article leads with a labelled cross-section through the lower leg."
+              },
+              {
+                "slug": "enkel",
+                "dutch": "de enkel",
+                "english": "the ankle",
+                "article": "Ankle"
+              },
+              {
+                "slug": "voet",
+                "dutch": "de voet",
+                "english": "the foot",
+                "article": "Foot"
+              },
+              {
+                "slug": "hiel",
+                "dutch": "de hiel",
+                "english": "the heel",
+                "article": "Heel"
+              },
+              {
+                "slug": "voetzool",
+                "dutch": "de voetzool",
+                "english": "the sole",
+                "article": "Sole (foot)"
+              },
+              {
+                "slug": "teen",
+                "dutch": "de teen",
+                "english": "the toe",
+                "article": "Toe"
+              }
+            ]
+          },
+          "senses": {
+            "title": "Sense organs",
+            "dutchTitle": "Zintuigen",
+            "description": "The eye, the ear, the nose and the tongue, and the parts they are made of.",
+            "words": [
+              {
+                "slug": "oog",
+                "dutch": "het oog",
+                "english": "the eye",
+                "article": "Human eye"
+              },
+              {
+                "slug": "ooglid",
+                "dutch": "het ooglid",
+                "english": "the eyelid",
+                "article": "Eyelid"
+              },
+              {
+                "slug": "wimper",
+                "dutch": "de wimper",
+                "english": "the eyelash",
+                "article": "Eyelash"
+              },
+              {
+                "slug": "wenkbrauw",
+                "dutch": "de wenkbrauw",
+                "english": "the eyebrow",
+                "article": "Eyebrow"
+              },
+              {
+                "slug": "traanklier",
+                "dutch": "de traanklier",
+                "english": "the tear gland",
+                "article": "Lacrimal gland"
+              },
+              {
+                "slug": "oogwit",
+                "dutch": "het oogwit",
+                "english": "the white of the eye",
+                "article": "Sclera"
+              },
+              {
+                "slug": "hoornvlies",
+                "dutch": "het hoornvlies",
+                "english": "the cornea",
+                "article": "Cornea"
+              },
+              {
+                "slug": "iris",
+                "dutch": "de iris",
+                "english": "the iris",
+                "article": "Iris (anatomy)"
+              },
+              {
+                "slug": "pupil",
+                "dutch": "de pupil",
+                "english": "the pupil",
+                "article": "Pupil"
+              },
+              {
+                "slug": "lens",
+                "dutch": "de lens",
+                "english": "the lens",
+                "article": "Lens (anatomy)",
+                "file": "Focus in an eye.svg",
+                "note": "Pinned: the article leads with a ray diagram in which the lens is a faint outline."
+              },
+              {
+                "slug": "netvlies",
+                "dutch": "het netvlies",
+                "english": "the retina",
+                "article": "Retina"
+              },
+              {
+                "slug": "oogzenuw",
+                "dutch": "de oogzenuw",
+                "english": "the optic nerve",
+                "article": "Optic nerve"
+              },
+              {
+                "slug": "oor",
+                "dutch": "het oor",
+                "english": "the ear",
+                "article": "Ear"
+              },
+              {
+                "slug": "oorschelp",
+                "dutch": "de oorschelp",
+                "english": "the outer ear",
+                "article": "Auricle (anatomy)"
+              },
+              {
+                "slug": "oorlel",
+                "dutch": "de oorlel",
+                "english": "the earlobe",
+                "article": "Earlobe",
+                "file": "Earcov.JPG",
+                "note": "Pinned: the article leads with the engraving de oorschelp uses."
+              },
+              {
+                "slug": "gehoorgang",
+                "dutch": "de gehoorgang",
+                "english": "the ear canal",
+                "article": "Ear canal"
+              },
+              {
+                "slug": "trommelvlies",
+                "dutch": "het trommelvlies",
+                "english": "the eardrum",
+                "article": "Eardrum"
+              },
+              {
+                "slug": "gehoorbeentje",
+                "dutch": "het gehoorbeentje",
+                "english": "the ossicle",
+                "article": "Ossicles"
+              },
+              {
+                "slug": "slakkenhuis",
+                "dutch": "het slakkenhuis",
+                "english": "the cochlea",
+                "article": "Cochlea",
+                "file": "Blausen 0329 EarAnatomy InternalEar.png",
+                "note": "Pinned: the article leads with a cross-section through one turn of the cochlea, which does not show the snail shell the Dutch word names."
+              },
+              {
+                "slug": "evenwichtsorgaan",
+                "dutch": "het evenwichtsorgaan",
+                "english": "the organ of balance",
+                "article": "Vestibular system"
+              },
+              {
+                "slug": "neus",
+                "dutch": "de neus",
+                "english": "the nose",
+                "article": "Human nose",
+                "file": "Neus1.jpg",
+                "note": "Pinned: the article leads with a crop 273 pixels wide."
+              },
+              {
+                "slug": "neusgat",
+                "dutch": "het neusgat",
+                "english": "the nostril",
+                "article": "Nostril"
+              },
+              {
+                "slug": "tong",
+                "dutch": "de tong",
+                "english": "the tongue",
+                "article": "Tongue"
+              },
+              {
+                "slug": "smaakpapil",
+                "dutch": "de smaakpapil",
+                "english": "the taste bud",
+                "article": "Taste bud"
+              }
+            ]
+          },
+          "skin": {
+            "title": "Skin, hair and nails",
+            "dutchTitle": "Huid, haar en nagels",
+            "description": "The body's wrapping: its layers and glands, and everything that grows out of it.",
+            "words": [
+              {
+                "slug": "huid",
+                "dutch": "de huid",
+                "english": "the skin",
+                "article": "Human skin"
+              },
+              {
+                "slug": "opperhuid",
+                "dutch": "de opperhuid",
+                "english": "the epidermis",
+                "article": "Epidermis",
+                "author": "Kilbad"
+              },
+              {
+                "slug": "lederhuid",
+                "dutch": "de lederhuid",
+                "english": "the dermis",
+                "article": "Dermis"
+              },
+              {
+                "slug": "zweetklier",
+                "dutch": "de zweetklier",
+                "english": "the sweat gland",
+                "article": "Sweat gland",
+                "file": "Sweat Gland Cross Section (NIH BioArt 504).png",
+                "note": "Pinned: the article leads with a cross-section of the whole skin, near enough the one de lederhuid uses."
+              },
+              {
+                "slug": "talgklier",
+                "dutch": "de talgklier",
+                "english": "the sebaceous gland",
+                "article": "Sebaceous gland",
+                "file": "407 Sebaceous Glands.jpg",
+                "note": "Pinned: the article leads with the hair follicle diagram het haarzakje already uses."
+              },
+              {
+                "slug": "haar",
+                "dutch": "het haar",
+                "english": "the hair",
+                "article": "Hair",
+                "file": "Woman with long brown hair from behind (7 October 2023).jpg",
+                "note": "Pinned: the article leads with an engraved cross-section of one hair under a microscope."
+              },
+              {
+                "slug": "haarzakje",
+                "dutch": "het haarzakje",
+                "english": "the hair follicle",
+                "article": "Hair follicle"
+              },
+              {
+                "slug": "nagel",
+                "dutch": "de nagel",
+                "english": "the nail",
+                "article": "Nail (anatomy)"
+              },
+              {
+                "slug": "vingerafdruk",
+                "dutch": "de vingerafdruk",
+                "english": "the fingerprint",
+                "article": "Fingerprint",
+                "file": "Fingerprint picture.svg",
+                "note": "Pinned: the article leads with a scan 215 pixels wide."
+              },
+              {
+                "slug": "sproet",
+                "dutch": "de sproet",
+                "english": "the freckle",
+                "article": "Freckle"
+              },
+              {
+                "slug": "moedervlek",
+                "dutch": "de moedervlek",
+                "english": "the mole",
+                "article": "Melanocytic nevus",
+                "file": "Skin Mole 10.JPG",
+                "note": "Pinned: the article leads with a stained microscope slide, which shows nothing a learner would call a mole."
+              },
+              {
+                "slug": "rimpel",
+                "dutch": "de rimpel",
+                "english": "the wrinkle",
+                "article": "Wrinkle"
+              },
+              {
+                "slug": "litteken",
+                "dutch": "het litteken",
+                "english": "the scar",
+                "article": "Scar"
+              },
+              {
+                "slug": "kippenvel",
+                "dutch": "het kippenvel",
+                "english": "the goose bumps",
+                "article": "Goose bumps"
+              },
+              {
+                "slug": "eelt",
+                "dutch": "het eelt",
+                "english": "the callus",
+                "article": "Callus"
+              },
+              {
+                "slug": "baard",
+                "dutch": "de baard",
+                "english": "the beard",
+                "article": "Beard"
+              },
+              {
+                "slug": "snor",
+                "dutch": "de snor",
+                "english": "the moustache",
+                "article": "Moustache"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "title": "On the inside",
+        "dutchTitle": "Van binnen",
+        "topics": {
+          "skeleton-and-muscles": {
+            "title": "Skeleton and muscles",
+            "dutchTitle": "Skelet en spieren",
+            "description": "What holds the body up and what moves it: bones, joints, muscles and tendons.",
+            "words": [
+              {
+                "slug": "skelet",
+                "dutch": "het skelet",
+                "english": "the skeleton",
+                "article": "Human skeleton"
+              },
+              {
+                "slug": "bot",
+                "dutch": "het bot",
+                "english": "the bone",
+                "article": "Bone",
+                "file": "603 Anatomy of Long Bone.jpg",
+                "note": "Pinned: the Bone article leads with an Ice Age elephant femur."
+              },
+              {
+                "slug": "schedel",
+                "dutch": "de schedel",
+                "english": "the skull",
+                "article": "Skull",
+                "file": "Human skull side bones numbered.svg",
+                "note": "Pinned: the Skull article leads with a 6MB animated volume rendering, and next/image derives no blur placeholder from an animation."
+              },
+              {
+                "slug": "onderkaak",
+                "dutch": "de onderkaak",
+                "english": "the lower jaw",
+                "article": "Mandible",
+                "file": "Cranium - mandibula (lateral view).jpg",
+                "note": "Pinned: the article leads with an animated GIF."
+              },
+              {
+                "slug": "wervelkolom",
+                "dutch": "de wervelkolom",
+                "english": "the spine",
+                "article": "Vertebral column"
+              },
+              {
+                "slug": "wervel",
+                "dutch": "de wervel",
+                "english": "the vertebra",
+                "article": "Vertebra"
+              },
+              {
+                "slug": "tussenwervelschijf",
+                "dutch": "de tussenwervelschijf",
+                "english": "the spinal disc",
+                "article": "Intervertebral disc"
+              },
+              {
+                "slug": "rib",
+                "dutch": "de rib",
+                "english": "the rib",
+                "article": "Rib"
+              },
+              {
+                "slug": "borstkas",
+                "dutch": "de borstkas",
+                "english": "the rib cage",
+                "article": "Rib cage",
+                "file": "Gray112.png",
+                "note": "Pinned: the article leads with an animated GIF."
+              },
+              {
+                "slug": "borstbeen",
+                "dutch": "het borstbeen",
+                "english": "the breastbone",
+                "article": "Sternum"
+              },
+              {
+                "slug": "sleutelbeen",
+                "dutch": "het sleutelbeen",
+                "english": "the collarbone",
+                "article": "Clavicle"
+              },
+              {
+                "slug": "schouderblad",
+                "dutch": "het schouderblad",
+                "english": "the shoulder blade",
+                "article": "Scapula"
+              },
+              {
+                "slug": "opperarmbeen",
+                "dutch": "het opperarmbeen",
+                "english": "the humerus",
+                "article": "Humerus"
+              },
+              {
+                "slug": "ellepijp",
+                "dutch": "de ellepijp",
+                "english": "the ulna",
+                "article": "Ulna"
+              },
+              {
+                "slug": "spaakbeen",
+                "dutch": "het spaakbeen",
+                "english": "the radius",
+                "article": "Radius (bone)"
+              },
+              {
+                "slug": "bekken",
+                "dutch": "het bekken",
+                "english": "the pelvis",
+                "article": "Pelvis"
+              },
+              {
+                "slug": "heiligbeen",
+                "dutch": "het heiligbeen",
+                "english": "the sacrum",
+                "article": "Sacrum"
+              },
+              {
+                "slug": "staartbeen",
+                "dutch": "het staartbeen",
+                "english": "the tailbone",
+                "article": "Coccyx"
+              },
+              {
+                "slug": "dijbeen",
+                "dutch": "het dijbeen",
+                "english": "the thigh bone",
+                "article": "Femur"
+              },
+              {
+                "slug": "knieschijf",
+                "dutch": "de knieschijf",
+                "english": "the kneecap",
+                "article": "Patella",
+                "file": "Patella ant.jpg",
+                "note": "Pinned: the article leads with the knee diagram de gewrichtsband uses."
+              },
+              {
+                "slug": "scheenbeen",
+                "dutch": "het scheenbeen",
+                "english": "the shinbone",
+                "article": "Tibia"
+              },
+              {
+                "slug": "kuitbeen",
+                "dutch": "het kuitbeen",
+                "english": "the fibula",
+                "article": "Fibula"
+              },
+              {
+                "slug": "kraakbeen",
+                "dutch": "het kraakbeen",
+                "english": "the cartilage",
+                "article": "Cartilage",
+                "file": "Illu synovial joint.jpg",
+                "note": "Pinned: the article leads with a microscope slide. In a joint the cartilage can be seen for what it does."
+              },
+              {
+                "slug": "gewricht",
+                "dutch": "het gewricht",
+                "english": "the joint",
+                "article": "Joint"
+              },
+              {
+                "slug": "gewrichtsband",
+                "dutch": "de gewrichtsband",
+                "english": "the ligament",
+                "article": "Ligament",
+                "file": "Knee diagram.svg",
+                "note": "Pinned: the Ligament article has no lead image. The knee is where the ligaments are easiest to see."
+              },
+              {
+                "slug": "spier",
+                "dutch": "de spier",
+                "english": "the muscle",
+                "article": "Muscle",
+                "file": "Arm muscles front superficial.png",
+                "note": "Pinned: the article leads with the three kinds of muscle tissue, which het spierweefsel uses."
+              },
+              {
+                "slug": "biceps",
+                "dutch": "de biceps",
+                "english": "the biceps",
+                "article": "Biceps"
+              },
+              {
+                "slug": "pees",
+                "dutch": "de pees",
+                "english": "the tendon",
+                "article": "Tendon",
+                "file": "Quadriceps tendon.svg",
+                "note": "Pinned: the article leads with a stained microscope slide."
+              },
+              {
+                "slug": "achillespees",
+                "dutch": "de achillespees",
+                "english": "the Achilles tendon",
+                "article": "Achilles tendon",
+                "author": "J. Gordon Betts, Kelly A. Young, James A. Wise, Eddie Johnson et al."
+              }
+            ]
+          },
+          "heart-and-blood": {
+            "title": "Heart and blood",
+            "dutchTitle": "Hart en bloed",
+            "description": "The pump, the vessels and what flows through them — and the marrow where blood is made.",
+            "words": [
+              {
+                "slug": "bloedsomloop",
+                "dutch": "de bloedsomloop",
+                "english": "the circulation",
+                "article": "Circulatory system"
+              },
+              {
+                "slug": "hart",
+                "dutch": "het hart",
+                "english": "the heart",
+                "article": "Heart"
+              },
+              {
+                "slug": "boezem",
+                "dutch": "de boezem",
+                "english": "the atrium",
+                "article": "Atrium (heart)",
+                "file": "01 Coeur Heart oreillette droite right atrium.svg",
+                "note": "Pinned: the article leads with the heart diagram de hartkamer uses. This one colours the atrium in; its two labels are French."
+              },
+              {
+                "slug": "hartkamer",
+                "dutch": "de hartkamer",
+                "english": "the ventricle",
+                "article": "Ventricle (heart)",
+                "file": "Diagram of the human heart (multilingual).svg",
+                "note": "Pinned: the article's lead image is an animated GIF. This cross-section shows the chambers."
+              },
+              {
+                "slug": "hartklep",
+                "dutch": "de hartklep",
+                "english": "the heart valve",
+                "article": "Heart valve",
+                "file": "2011 Heart Valves.jpg",
+                "note": "Pinned: the article leads with the same animation as de hartkamer; this one shows the valves."
+              },
+              {
+                "slug": "hartspier",
+                "dutch": "de hartspier",
+                "english": "the heart muscle",
+                "article": "Cardiac muscle",
+                "file": "Blausen 0470 HeartWall.png",
+                "note": "Pinned: the article leads with a stained microscope slide."
+              },
+              {
+                "slug": "kransslagader",
+                "dutch": "de kransslagader",
+                "english": "the coronary artery",
+                "article": "Coronary arteries"
+              },
+              {
+                "slug": "bloedvat",
+                "dutch": "het bloedvat",
+                "english": "the blood vessel",
+                "article": "Blood vessel",
+                "author": "Kelvinsong; derivative work: Begoon"
+              },
+              {
+                "slug": "aorta",
+                "dutch": "de aorta",
+                "english": "the aorta",
+                "article": "Aorta"
+              },
+              {
+                "slug": "slagader",
+                "dutch": "de slagader",
+                "english": "the artery",
+                "article": "Artery"
+              },
+              {
+                "slug": "halsslagader",
+                "dutch": "de halsslagader",
+                "english": "the carotid artery",
+                "article": "Common carotid artery"
+              },
+              {
+                "slug": "longslagader",
+                "dutch": "de longslagader",
+                "english": "the pulmonary artery",
+                "article": "Pulmonary artery",
+                "file": "2119 Pulmonary Circuit.jpg",
+                "note": "Pinned: the article leads with the heart diagram de hartkamer uses."
+              },
+              {
+                "slug": "ader",
+                "dutch": "de ader",
+                "english": "the vein",
+                "article": "Vein"
+              },
+              {
+                "slug": "holle-ader",
+                "dutch": "de holle ader",
+                "english": "the vena cava",
+                "article": "Venae cavae",
+                "file": "2132 Thoracic Abdominal Veins.jpg",
+                "note": "Pinned: the article leads with the heart diagram de hartkamer uses."
+              },
+              {
+                "slug": "haarvat",
+                "dutch": "het haarvat",
+                "english": "the capillary",
+                "article": "Capillary"
+              },
+              {
+                "slug": "bloed",
+                "dutch": "het bloed",
+                "english": "the blood",
+                "article": "Blood",
+                "file": "Tube with blood sample.jpg",
+                "note": "Pinned: the article leads with a row of filled syringes on a stained cloth."
+              },
+              {
+                "slug": "bloedplasma",
+                "dutch": "het bloedplasma",
+                "english": "the blood plasma",
+                "article": "Blood plasma"
+              },
+              {
+                "slug": "rode-bloedcel",
+                "dutch": "de rode bloedcel",
+                "english": "the red blood cell",
+                "article": "Red blood cell"
+              },
+              {
+                "slug": "witte-bloedcel",
+                "dutch": "de witte bloedcel",
+                "english": "the white blood cell",
+                "article": "White blood cell"
+              },
+              {
+                "slug": "bloedplaatje",
+                "dutch": "het bloedplaatje",
+                "english": "the platelet",
+                "article": "Platelet",
+                "file": "Blausen 0740 Platelets.png",
+                "note": "Pinned: the article leads with a blood smear in which the platelets are specks between the red cells."
+              },
+              {
+                "slug": "beenmerg",
+                "dutch": "het beenmerg",
+                "english": "the bone marrow",
+                "article": "Bone marrow",
+                "file": "619 Red and Yellow Bone Marrow.jpg",
+                "note": "Pinned: the article leads with a stained microscope slide."
+              }
+            ]
+          },
+          "breathing": {
+            "title": "Breathing",
+            "dutchTitle": "Ademhaling",
+            "description": "The way air takes, from de neusholte to het longblaasje.",
+            "words": [
+              {
+                "slug": "luchtwegen",
+                "dutch": "de luchtwegen",
+                "english": "the airways",
+                "article": "Respiratory tract"
+              },
+              {
+                "slug": "neusholte",
+                "dutch": "de neusholte",
+                "english": "the nasal cavity",
+                "article": "Nasal cavity"
+              },
+              {
+                "slug": "bijholte",
+                "dutch": "de bijholte",
+                "english": "the sinus",
+                "article": "Paranasal sinuses"
+              },
+              {
+                "slug": "keel",
+                "dutch": "de keel",
+                "english": "the throat",
+                "article": "Throat"
+              },
+              {
+                "slug": "strotklepje",
+                "dutch": "het strotklepje",
+                "english": "the epiglottis",
+                "article": "Epiglottis"
+              },
+              {
+                "slug": "strottenhoofd",
+                "dutch": "het strottenhoofd",
+                "english": "the larynx",
+                "article": "Larynx"
+              },
+              {
+                "slug": "stemband",
+                "dutch": "de stemband",
+                "english": "the vocal cord",
+                "article": "Vocal cords"
+              },
+              {
+                "slug": "adamsappel",
+                "dutch": "de adamsappel",
+                "english": "the Adam's apple",
+                "article": "Adam's apple",
+                "file": "Adam's apple 69A.jpg",
+                "note": "Pinned: the article leads with the engraving of the whole neck from Gray's Anatomy."
+              },
+              {
+                "slug": "luchtpijp",
+                "dutch": "de luchtpijp",
+                "english": "the windpipe",
+                "article": "Trachea",
+                "file": "Trachea svg hariadhi.svg",
+                "note": "Pinned: the article leads with the diagram of the whole airway, which de luchtwegen uses."
+              },
+              {
+                "slug": "luchtpijptak",
+                "dutch": "de luchtpijptak",
+                "english": "the bronchus",
+                "article": "Bronchus"
+              },
+              {
+                "slug": "long",
+                "dutch": "de long",
+                "english": "the lung",
+                "article": "Lung"
+              },
+              {
+                "slug": "longkwab",
+                "dutch": "de longkwab",
+                "english": "the lobe of the lung",
+                "article": "Lung",
+                "file": "2312 Gross Anatomy of the Lungs.jpg",
+                "note": "Pinned: there is no article for the lobes alone, and the Lung article's lead is the one de long uses. This one labels them."
+              },
+              {
+                "slug": "longblaasje",
+                "dutch": "het longblaasje",
+                "english": "the alveolus",
+                "article": "Pulmonary alveolus"
+              },
+              {
+                "slug": "longvlies",
+                "dutch": "het longvlies",
+                "english": "the pleura",
+                "article": "Pleura"
+              },
+              {
+                "slug": "middenrif",
+                "dutch": "het middenrif",
+                "english": "the diaphragm",
+                "article": "Thoracic diaphragm"
+              }
+            ]
+          },
+          "digestion": {
+            "title": "Digestion",
+            "dutchTitle": "Spijsvertering",
+            "description": "The road food travels, from de mond to de endeldarm, and the organs that help along the way.",
+            "words": [
+              {
+                "slug": "mond",
+                "dutch": "de mond",
+                "english": "the mouth",
+                "article": "Human mouth",
+                "file": "Illu mouth.jpg",
+                "note": "Pinned: the article leads with a clinical close-up down an open throat. This is the labelled SEER diagram the rest of the topic is full of."
+              },
+              {
+                "slug": "lip",
+                "dutch": "de lip",
+                "english": "the lip",
+                "article": "Lip"
+              },
+              {
+                "slug": "tand",
+                "dutch": "de tand",
+                "english": "the tooth",
+                "article": "Human tooth",
+                "file": "Tooth Section.svg",
+                "note": "Pinned: the article's lead, a smile, is the picture de snijtand uses."
+              },
+              {
+                "slug": "snijtand",
+                "dutch": "de snijtand",
+                "english": "the incisor",
+                "article": "Incisor",
+                "file": "06-10-06smile.jpg",
+                "note": "Pinned: the article leads with an engraving of a whole jaw. The front teeth in a smile are the incisors."
+              },
+              {
+                "slug": "hoektand",
+                "dutch": "de hoektand",
+                "english": "the canine tooth",
+                "article": "Canine tooth",
+                "file": "Eckzahn in Fehlstellung wegen Platzmangel.jpg",
+                "note": "Pinned: the article leads with the teeth of a dog."
+              },
+              {
+                "slug": "kies",
+                "dutch": "de kies",
+                "english": "the molar",
+                "article": "Molar (tooth)"
+              },
+              {
+                "slug": "verstandskies",
+                "dutch": "de verstandskies",
+                "english": "the wisdom tooth",
+                "article": "Wisdom tooth",
+                "file": "Weisheitszähne-1.jpg",
+                "note": "Pinned: the article leads with a chart 168 pixels wide.",
+                "author": "M(e)ister Eiskalt; derivative work: Hic et nunc"
+              },
+              {
+                "slug": "tandvlees",
+                "dutch": "het tandvlees",
+                "english": "the gums",
+                "article": "Gums",
+                "file": "Gingiva.jpg",
+                "note": "Pinned: the article leads with a cross-section of a tooth in which the gums are one label of eight."
+              },
+              {
+                "slug": "gehemelte",
+                "dutch": "het gehemelte",
+                "english": "the palate",
+                "article": "Palate",
+                "file": "Palate 2 (PSF).png",
+                "note": "Pinned: the article leads with the head section de neusholte uses."
+              },
+              {
+                "slug": "huig",
+                "dutch": "de huig",
+                "english": "the uvula",
+                "article": "Uvula"
+              },
+              {
+                "slug": "speekselklier",
+                "dutch": "de speekselklier",
+                "english": "the salivary gland",
+                "article": "Salivary gland"
+              },
+              {
+                "slug": "slokdarm",
+                "dutch": "de slokdarm",
+                "english": "the oesophagus",
+                "article": "Esophagus"
+              },
+              {
+                "slug": "maag",
+                "dutch": "de maag",
+                "english": "the stomach",
+                "article": "Stomach"
+              },
+              {
+                "slug": "lever",
+                "dutch": "de lever",
+                "english": "the liver",
+                "article": "Liver",
+                "file": "Human Liver (NIH BioArt 230).png",
+                "note": "Pinned: the article leads with the whole abdomen, where the liver is one organ of nine."
+              },
+              {
+                "slug": "galblaas",
+                "dutch": "de galblaas",
+                "english": "the gallbladder",
+                "article": "Gallbladder"
+              },
+              {
+                "slug": "alvleesklier",
+                "dutch": "de alvleesklier",
+                "english": "the pancreas",
+                "article": "Pancreas"
+              },
+              {
+                "slug": "dunne-darm",
+                "dutch": "de dunne darm",
+                "english": "the small intestine",
+                "article": "Small intestine"
+              },
+              {
+                "slug": "twaalfvingerige-darm",
+                "dutch": "de twaalfvingerige darm",
+                "english": "the duodenum",
+                "article": "Duodenum"
+              },
+              {
+                "slug": "darmvlok",
+                "dutch": "de darmvlok",
+                "english": "the intestinal villus",
+                "article": "Intestinal villus",
+                "file": "Intestinal villus simplified.svg",
+                "note": "Pinned: the article leads with a stained microscope slide."
+              },
+              {
+                "slug": "dikke-darm",
+                "dutch": "de dikke darm",
+                "english": "the large intestine",
+                "article": "Large intestine"
+              },
+              {
+                "slug": "blindedarm",
+                "dutch": "de blindedarm",
+                "english": "the caecum",
+                "article": "Cecum"
+              },
+              {
+                "slug": "wormvormig-aanhangsel",
+                "dutch": "het wormvormig aanhangsel",
+                "english": "the appendix",
+                "article": "Appendix (anatomy)"
+              },
+              {
+                "slug": "endeldarm",
+                "dutch": "de endeldarm",
+                "english": "the rectum",
+                "article": "Rectum"
+              },
+              {
+                "slug": "buikvlies",
+                "dutch": "het buikvlies",
+                "english": "the peritoneum",
+                "article": "Peritoneum",
+                "file": "Gray1035.png",
+                "note": "Pinned: the article leads with an engraving whose labels are too small to read at card size."
+              }
+            ]
+          },
+          "kidneys-and-reproduction": {
+            "title": "Kidneys and reproduction",
+            "dutchTitle": "Nieren en voortplanting",
+            "description": "The organs that filter the blood, and the ones a new life starts in.",
+            "words": [
+              {
+                "slug": "nier",
+                "dutch": "de nier",
+                "english": "the kidney",
+                "article": "Kidney"
+              },
+              {
+                "slug": "nierbekken",
+                "dutch": "het nierbekken",
+                "english": "the renal pelvis",
+                "article": "Renal pelvis"
+              },
+              {
+                "slug": "urineleider",
+                "dutch": "de urineleider",
+                "english": "the ureter",
+                "article": "Ureter",
+                "file": "Urinary System (Female).png",
+                "note": "Pinned: the article leads with the whole urinary system numbered rather than labelled, and the pin before this one was a microscope slide."
+              },
+              {
+                "slug": "blaas",
+                "dutch": "de blaas",
+                "english": "the bladder",
+                "article": "Urinary bladder",
+                "file": "Urinary Sphincter.png",
+                "note": "Pinned: the article leads with the whole urinary system, numbered rather than labelled."
+              },
+              {
+                "slug": "urinebuis",
+                "dutch": "de urinebuis",
+                "english": "the urethra",
+                "article": "Urethra"
+              },
+              {
+                "slug": "baarmoeder",
+                "dutch": "de baarmoeder",
+                "english": "the uterus",
+                "article": "Uterus"
+              },
+              {
+                "slug": "eierstok",
+                "dutch": "de eierstok",
+                "english": "the ovary",
+                "article": "Ovary"
+              },
+              {
+                "slug": "eileider",
+                "dutch": "de eileider",
+                "english": "the fallopian tube",
+                "article": "Fallopian tube",
+                "file": "Fallopian tube.jpg",
+                "note": "Pinned: the article leads with the diagram de eierstok uses."
+              },
+              {
+                "slug": "eicel",
+                "dutch": "de eicel",
+                "english": "the egg cell",
+                "article": "Egg cell"
+              },
+              {
+                "slug": "zaadcel",
+                "dutch": "de zaadcel",
+                "english": "the sperm cell",
+                "article": "Spermatozoon"
+              },
+              {
+                "slug": "prostaat",
+                "dutch": "de prostaat",
+                "english": "the prostate",
+                "article": "Prostate"
+              },
+              {
+                "slug": "teelbal",
+                "dutch": "de teelbal",
+                "english": "the testicle",
+                "article": "Testicle"
+              },
+              {
+                "slug": "embryo",
+                "dutch": "het embryo",
+                "english": "the embryo",
+                "article": "Human embryonic development",
+                "file": "Reproductive system - Embryo -- Smart-Servier.png",
+                "note": "Pinned: the article leads with a chart of the first three weeks, a dozen drawings too small to read at card size."
+              },
+              {
+                "slug": "foetus",
+                "dutch": "de foetus",
+                "english": "the foetus",
+                "article": "Fetus",
+                "file": "Pregnant Human and Fetus in Uterus (NIH BioArt 420 - 633833).png",
+                "note": "Pinned: the Fetus article has no lead image."
+              },
+              {
+                "slug": "placenta",
+                "dutch": "de placenta",
+                "english": "the placenta",
+                "article": "Placenta",
+                "file": "Placenta.svg",
+                "note": "Pinned: the article leads with a photograph of a placenta after birth, in a tub."
+              },
+              {
+                "slug": "navelstreng",
+                "dutch": "de navelstreng",
+                "english": "the umbilical cord",
+                "article": "Umbilical cord"
+              },
+              {
+                "slug": "melkklier",
+                "dutch": "de melkklier",
+                "english": "the mammary gland",
+                "article": "Mammary gland",
+                "author": "Patrick J. Lynch; reworked by Morgoth666"
+              }
+            ]
+          },
+          "nervous-system": {
+            "title": "Nervous system",
+            "dutchTitle": "Zenuwstelsel",
+            "description": "The brain, the spinal cord and the nerves that wire them to everything else.",
+            "words": [
+              {
+                "slug": "zenuwstelsel",
+                "dutch": "het zenuwstelsel",
+                "english": "the nervous system",
+                "article": "Nervous system"
+              },
+              {
+                "slug": "hersenen",
+                "dutch": "de hersenen",
+                "english": "the brain",
+                "article": "Human brain",
+                "file": "Skull and brain normal human.svg",
+                "note": "Pinned: the article leads with an autopsy photograph of a brain held in gloved hands."
+              },
+              {
+                "slug": "grote-hersenen",
+                "dutch": "de grote hersenen",
+                "english": "the cerebrum",
+                "article": "Cerebrum"
+              },
+              {
+                "slug": "hersenhelft",
+                "dutch": "de hersenhelft",
+                "english": "the cerebral hemisphere",
+                "article": "Cerebral hemisphere"
+              },
+              {
+                "slug": "hersenkwab",
+                "dutch": "de hersenkwab",
+                "english": "the lobe of the brain",
+                "article": "Lobes of the brain"
+              },
+              {
+                "slug": "hersenschors",
+                "dutch": "de hersenschors",
+                "english": "the cerebral cortex",
+                "article": "Cerebral cortex"
+              },
+              {
+                "slug": "kleine-hersenen",
+                "dutch": "de kleine hersenen",
+                "english": "the cerebellum",
+                "article": "Cerebellum"
+              },
+              {
+                "slug": "hersenstam",
+                "dutch": "de hersenstam",
+                "english": "the brainstem",
+                "article": "Brainstem"
+              },
+              {
+                "slug": "hersenvlies",
+                "dutch": "het hersenvlies",
+                "english": "the meninges",
+                "article": "Meninges"
+              },
+              {
+                "slug": "hypothalamus",
+                "dutch": "de hypothalamus",
+                "english": "the hypothalamus",
+                "article": "Hypothalamus",
+                "file": "Blausen 0536 HypothalamusLocation.png",
+                "note": "Pinned: the article leads with an MRI scan and an arrow."
+              },
+              {
+                "slug": "ruggenmerg",
+                "dutch": "het ruggenmerg",
+                "english": "the spinal cord",
+                "article": "Spinal cord"
+              },
+              {
+                "slug": "zenuw",
+                "dutch": "de zenuw",
+                "english": "the nerve",
+                "article": "Nerve"
+              },
+              {
+                "slug": "heupzenuw",
+                "dutch": "de heupzenuw",
+                "english": "the sciatic nerve",
+                "article": "Sciatic nerve"
+              },
+              {
+                "slug": "zenuwcel",
+                "dutch": "de zenuwcel",
+                "english": "the nerve cell",
+                "article": "Neuron"
+              },
+              {
+                "slug": "synaps",
+                "dutch": "de synaps",
+                "english": "the synapse",
+                "article": "Synapse"
+              }
+            ]
+          },
+          "glands-and-immunity": {
+            "title": "Glands and immunity",
+            "dutchTitle": "Klieren en afweer",
+            "description": "The glands that steer the body with hormones, and the lymph system that defends it.",
+            "words": [
+              {
+                "slug": "klier",
+                "dutch": "de klier",
+                "english": "the gland",
+                "article": "Gland",
+                "file": "1801 The Endocrine System.jpg",
+                "note": "Pinned: the article leads with an engraving of gland tissue under a microscope."
+              },
+              {
+                "slug": "hypofyse",
+                "dutch": "de hypofyse",
+                "english": "the pituitary gland",
+                "article": "Pituitary gland"
+              },
+              {
+                "slug": "pijnappelklier",
+                "dutch": "de pijnappelklier",
+                "english": "the pineal gland",
+                "article": "Pineal gland"
+              },
+              {
+                "slug": "schildklier",
+                "dutch": "de schildklier",
+                "english": "the thyroid gland",
+                "article": "Thyroid"
+              },
+              {
+                "slug": "bijschildklier",
+                "dutch": "de bijschildklier",
+                "english": "the parathyroid gland",
+                "article": "Parathyroid gland"
+              },
+              {
+                "slug": "bijnier",
+                "dutch": "de bijnier",
+                "english": "the adrenal gland",
+                "article": "Adrenal gland"
+              },
+              {
+                "slug": "thymus",
+                "dutch": "de thymus",
+                "english": "the thymus",
+                "article": "Thymus"
+              },
+              {
+                "slug": "lymfestelsel",
+                "dutch": "het lymfestelsel",
+                "english": "the lymphatic system",
+                "article": "Lymphatic system"
+              },
+              {
+                "slug": "lymfevat",
+                "dutch": "het lymfevat",
+                "english": "the lymph vessel",
+                "article": "Lymphatic vessel"
+              },
+              {
+                "slug": "lymfeklier",
+                "dutch": "de lymfeklier",
+                "english": "the lymph node",
+                "article": "Lymph node"
+              },
+              {
+                "slug": "milt",
+                "dutch": "de milt",
+                "english": "the spleen",
+                "article": "Spleen"
+              },
+              {
+                "slug": "amandel",
+                "dutch": "de amandel",
+                "english": "the tonsil",
+                "article": "Tonsil"
+              },
+              {
+                "slug": "antilichaam",
+                "dutch": "het antilichaam",
+                "english": "the antibody",
+                "article": "Antibody"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "title": "Building blocks",
+        "dutchTitle": "Bouwstenen",
+        "topics": {
+          "cells-and-tissues": {
+            "title": "Cells and tissues",
+            "dutchTitle": "Cellen en weefsels",
+            "description": "What every organ is built from, down to het chromosoom.",
+            "words": [
+              {
+                "slug": "orgaan",
+                "dutch": "het orgaan",
+                "english": "the organ",
+                "article": "Organ (biology)"
+              },
+              {
+                "slug": "cel",
+                "dutch": "de cel",
+                "english": "the cell",
+                "article": "Cell (biology)"
+              },
+              {
+                "slug": "celkern",
+                "dutch": "de celkern",
+                "english": "the cell nucleus",
+                "article": "Cell nucleus"
+              },
+              {
+                "slug": "celmembraan",
+                "dutch": "het celmembraan",
+                "english": "the cell membrane",
+                "article": "Cell membrane",
+                "author": "Dhatfield"
+              },
+              {
+                "slug": "mitochondrium",
+                "dutch": "het mitochondrium",
+                "english": "the mitochondrion",
+                "article": "Mitochondrion"
+              },
+              {
+                "slug": "chromosoom",
+                "dutch": "het chromosoom",
+                "english": "the chromosome",
+                "article": "Chromosome",
+                "file": "Chromosome.svg",
+                "note": "Pinned: the article leads with a diagram a few pixels tall."
+              },
+              {
+                "slug": "stamcel",
+                "dutch": "de stamcel",
+                "english": "the stem cell",
+                "article": "Stem cell",
+                "file": "Stem cells diagram.png",
+                "note": "Pinned: the article leads with an electron micrograph."
+              },
+              {
+                "slug": "weefsel",
+                "dutch": "het weefsel",
+                "english": "the tissue",
+                "article": "Tissue (biology)",
+                "file": "401 Types of Tissue.jpg",
+                "note": "Pinned: the article leads with a microscope slide of a diseased lung."
+              },
+              {
+                "slug": "spierweefsel",
+                "dutch": "het spierweefsel",
+                "english": "the muscle tissue",
+                "article": "Muscle tissue"
+              },
+              {
+                "slug": "bindweefsel",
+                "dutch": "het bindweefsel",
+                "english": "the connective tissue",
+                "article": "Connective tissue",
+                "file": "408 Connective Tissue.jpg",
+                "note": "Pinned: the article leads with a stained microscope slide."
+              },
+              {
+                "slug": "vetweefsel",
+                "dutch": "het vetweefsel",
+                "english": "the fatty tissue",
+                "article": "Adipose tissue",
+                "file": "Blausen 0012 AdiposeTissue.png",
+                "note": "Pinned: the article leads with a cut of pork belly."
+              },
+              {
+                "slug": "zenuwweefsel",
+                "dutch": "het zenuwweefsel",
+                "english": "the nervous tissue",
+                "article": "Nervous tissue"
+              }
+            ]
+          }
+        }
+      }
+    ]
   }
 }

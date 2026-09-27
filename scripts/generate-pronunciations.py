@@ -22,19 +22,16 @@ clips are left alone unless --force is passed.
 from __future__ import annotations
 
 import argparse
-import json
 import pathlib
 import shutil
 import subprocess
 import sys
 import tempfile
 
-REPO = pathlib.Path(__file__).resolve().parent.parent
-# The words live in the woordenschat zone, not at the repo root.
-ROOT = REPO / "apps" / "woordenschat"
+from word_topics import AUDIO as DEST
+from word_topics import REPO, topics
+
 VOICE = REPO / ".voices" / "nl_NL-ronnie-medium.onnx"
-DEST = ROOT / "public" / "audio" / "words"
-TOPICS = json.loads((pathlib.Path(__file__).resolve().parent / "word-topics.json").read_text())
 
 
 def main() -> int:
@@ -51,7 +48,7 @@ def main() -> int:
 
     made = skipped = 0
     with tempfile.TemporaryDirectory() as tmp:
-        for topic, definition in TOPICS.items():
+        for topic, definition in topics().items():
             (DEST / topic).mkdir(parents=True, exist_ok=True)
             for entry in definition["words"]:
                 out = DEST / topic / f"{entry['slug']}.m4a"

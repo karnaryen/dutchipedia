@@ -3,6 +3,8 @@ import path from 'node:path';
 
 import { describe, expect, it } from 'vitest';
 
+import { isWordSection, listSectionTopics } from '@/features/words/word-topics';
+
 import { wordTopics } from './topics';
 
 /**
@@ -12,19 +14,39 @@ import { wordTopics } from './topics';
  */
 const publicDir = path.resolve(__dirname, '../../public');
 
+/** Every topic that holds words, named by its URL: "cats", "body/senses". */
+const leaves = wordTopics.flatMap((topic) =>
+  isWordSection(topic)
+    ? listSectionTopics(topic).map((child) => [`${topic.slug}/${child.slug}`, child] as const)
+    : [[topic.slug, topic] as const],
+);
+
 describe('word topics', () => {
   it('have unique slugs', () => {
     const slugs = wordTopics.map((topic) => topic.slug);
     expect(new Set(slugs).size).toBe(slugs.length);
   });
 
-  it('are not empty', () => {
-    for (const topic of wordTopics) {
-      expect(topic.entries.length, topic.slug).toBeGreaterThan(0);
+  it('have unique slugs inside a section', () => {
+    for (const section of wordTopics.filter(isWordSection)) {
+      const slugs = listSectionTopics(section).map((topic) => topic.slug);
+      expect(new Set(slugs).size, section.slug).toBe(slugs.length);
     }
   });
 
-  describe.each(wordTopics.map((topic) => [topic.slug, topic] as const))('%s', (_, topic) => {
+  it('are not empty', () => {
+    for (const [name, topic] of leaves) {
+      expect(topic.entries.length, name).toBeGreaterThan(0);
+    }
+  });
+
+  describe.each(leaves)('%s', (name, topic) => {
+    it('keeps its clips under its own path', () => {
+      for (const entry of topic.entries) {
+        expect(entry.audio, entry.slug).toBe(`/audio/words/${name}/${entry.slug}.m4a`);
+      }
+    });
+
     it('has unique entry slugs', () => {
       const slugs = topic.entries.map((entry) => entry.slug);
       expect(new Set(slugs).size).toBe(slugs.length);

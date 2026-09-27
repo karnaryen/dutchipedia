@@ -1,25 +1,23 @@
 import { PageIntro } from '@dutchipedia/ui/components/page-intro';
-import { ArrowLeft } from 'lucide-react';
-import Link from 'next/link';
 
 import { PronunciationProvider } from '@/features/pronunciation/pronunciation-provider';
 import { SoundHint } from '@/features/pronunciation/sound-hint';
+import { BackLink } from '@/features/words/back-link';
 import { ImageCredits } from '@/features/words/image-credits';
-import type { WordTopic } from '@/features/words/types';
+import type { WordSection, WordTopic } from '@/features/words/types';
 import { WordCard } from '@/features/words/word-card';
 
 /** Shared page body for every word topic. Stays a Server Component — only the
- *  individual cards need the client, because only they speak. */
-export function WordTopicPage({ topic }: { topic: WordTopic }) {
+ *  individual cards need the client, because only they speak. A topic that
+ *  belongs to a section leads back to it rather than to the index. */
+export function WordTopicPage({ topic, section }: { topic: WordTopic; section?: WordSection }) {
   return (
     <div className="mx-auto w-full max-w-5xl px-6 py-12">
-      <Link
-        href="/"
-        className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground"
-      >
-        <ArrowLeft className="size-4" aria-hidden="true" />
-        All topics
-      </Link>
+      {section ? (
+        <BackLink href={`/${section.slug}`}>{section.title}</BackLink>
+      ) : (
+        <BackLink href="/">All topics</BackLink>
+      )}
 
       <div className="mt-6">
         <PageIntro

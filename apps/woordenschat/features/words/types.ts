@@ -32,11 +32,31 @@ export interface WordEntry {
 /** A group of words with one page: trees, cats, dogs… Generated from
  *  scripts/word-topics.json, which is where new topics are added. */
 export interface WordTopic {
-  /** URL segment: /woordenschat/<slug>. */
+  /** URL segment: /woordenschat/<slug>, or /woordenschat/<section>/<slug>
+   *  for a topic that belongs to a section. */
   slug: string;
   title: string;
   dutchTitle: string;
   /** One sentence, shown on the index card and as the page lede. */
   description: string;
   entries: WordEntry[];
+}
+
+/** A heading on a section's page and the topics listed under it. */
+export interface WordTopicGroup {
+  title: string;
+  dutchTitle: string;
+  topics: WordTopic[];
+}
+
+/** A subject too large for one page — the body is two hundred words — split
+ *  into topics of its own. It has a page that lists them and no words itself. */
+export interface WordSection {
+  /** URL segment: /woordenschat/<slug>. */
+  slug: string;
+  title: string;
+  dutchTitle: string;
+  /** One sentence, shown on the index card and as the page lede. */
+  description: string;
+  groups: WordTopicGroup[];
 }

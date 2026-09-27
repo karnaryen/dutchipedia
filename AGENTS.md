@@ -116,10 +116,12 @@ When you do need a client component, push the boundary to the leaf. A `'use clie
 ```
 apps/home/                      zone "/": home page, styleguide, zone rewrites and legacy redirects
 apps/woordenschat/              zone "/woordenschat": the words
-  app/                          routes: page.tsx (topic index), [topic]/page.tsx (one route for every topic)
+  app/                          routes: page.tsx (topic index), [topic]/page.tsx (a topic or a section),
+                                [topic]/[subtopic]/page.tsx (a topic inside a section)
   content/words/                the words themselves — generated data files next to their images
-  content/words/topics.ts       generated registry of every topic; the routes are built from it
-  features/words/               types, lookups, the topic page and the card
+  content/words/body/           a section: body.ts lists its topics, each in a folder of its own
+  content/words/topics.ts       generated registry of every topic and section; the routes are built from it
+  features/words/               types, lookups, the topic page, the section page and the card
   features/pronunciation/       the audio player, its React provider and the "sound is off" hint
   lib/base-path.ts              prefixes hand-built URLs with the zone's basePath
   public/audio/words/           pronunciation clips
@@ -135,12 +137,14 @@ scripts/                        Python generators for the words (images, clips, 
 ```
 
 - Routes stay thin. A page picks the data and hands it to a `features/` component; the layout and wording live there. `apps/woordenschat/app/[topic]/page.tsx` is the whole of a topic route — a new topic needs no new page.
+- **A subject too big for one page is a section.** The body is two hundred words, so `/woordenschat/body` lists its topics under headings and each topic is a page below it: `/woordenschat/body/senses`. In `word-topics.json` a section has `groups` instead of `words`; `scripts/word_topics.py` describes the shape. Images and clips sit under the same path — `content/words/body/senses/`, `public/audio/words/body/senses/` — and the scripts name a topic by it: `fetch-word-images.py body/senses`, or `body` for the whole section.
 - Every zone's `app/layout.tsx` is three lines: metadata plus `<SiteLayout zone="…">`. The document, fonts, header, footer and analytics come from the package so they cannot drift between zones.
 - **Images live in `content/`, not `public/`.** They are imported statically, which gives Next the dimensions and a blur placeholder for free, and lets a missing file fail the build instead of 404ing in production.
 - **Audio is the exception: it lives in `apps/woordenschat/public/audio/`.** Next has no static import for media, so clips are referenced by zone-relative URL. A wrong path would 404 silently — `content/words/topics.test.ts` checks every clip exists, so run `pnpm test` after adding words.
 - **Pronunciation is pre-generated, never `speechSynthesis`.** Browser TTS reads Dutch in an English voice for anyone without a Dutch voice installed. Clips come from `scripts/generate-pronunciations.py`.
 - **Pronunciation plays through `features/pronunciation/`, never a bare `new Audio()`.** The player is one element per page (a sweep across the grid replaces the clip instead of stacking), it stops when the `PronunciationProvider` unmounts (so a clip does not carry on into the next route), and it turns the browser's first-interaction refusal into a visible hint plus a replay on the first click. The player is plain TypeScript with the browser injected, and has unit tests — keep it that way.
-- **`scripts/word-topics.json` is the source of truth for words and topics.** The photo, the clip and the credit have to agree, which is unmanageable by hand at a hundred entries, so `content/words/<topic>/<topic>.ts` and `content/words/topics.ts` are generated. To add a word: add it there, then run `fetch-word-images.py <topic> --only <slug>`, `generate-pronunciations.py`, `generate-word-data.py`. To add a topic: add a key with `title`, `dutchTitle`, `description` and `words`, then run the same three scripts. Editing a generated `.ts` directly works until the next regeneration overwrites it.
+- **`scripts/word-topics.json` is the source of truth for words and topics.** The photo, the clip and the credit have to agree, which is unmanageable by hand at a hundred entries, so `content/words/<topic>/<topic>.ts` and `content/words/topics.ts` are generated. To add a word: add it there, then run `fetch-word-images.py <topic> --only <slug>` (or `--missing` for every word without an image), `generate-pronunciations.py`, `generate-word-data.py`. To add a topic: add a key with `title`, `dutchTitle`, `description` and `words`, then run the same three scripts. Editing a generated `.ts` directly works until the next regeneration overwrites it.
+- **Look at every image the script fetches.** It takes the lead image of the Wikipedia article, which for anatomy is often a microscope slide, an engraving, or the same diagram as its neighbour. Pin a better Commons file with `file` and say why in `note`. Wikimedia throttles: a word takes ten to twenty seconds, and two fetches at once get 429s.
 - Photos carry their licence. Every `WordEntry` has a `credit`, and the topic page renders it — most Wikimedia images are CC BY-SA and attribution is a condition of use, not a nicety.
 - Co-locate a component with its route if only that route uses it; promote to that zone's `features/` on the second consumer inside the zone, and to `packages/ui` on the first consumer in another zone.
 - No barrel `index.ts` files — they defeat tree-shaking and slow the dev server. Data modules are named for their contents (`content/words/trees/trees.ts`).

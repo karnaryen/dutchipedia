@@ -1,0 +1,122 @@
+{
+  "grote-hersenen": {
+    "artist": "Henry Vandyke Carter",
+    "bytes": 227543,
+    "extension": "png",
+    "file": "Lobes_of_the_brain_NL.svg",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "hersenen": {
+    "artist": "Patrick J. Lynch, medical illustrator",
+    "bytes": 149906,
+    "extension": "png",
+    "file": "Skull and brain normal human.svg",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+  },
+  "hersenhelft": {
+    "artist": "BruceBlaus",
+    "bytes": 162568,
+    "extension": "png",
+    "file": "Blausen_0215_CerebralHemispheres.png",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "hersenkwab": {
+    "artist": "Sebastian023",
+    "bytes": 139332,
+    "extension": "png",
+    "file": "LobesCaptsLateral.png",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "hersenschors": {
+    "artist": "Lorenzo Bandieri",
+    "bytes": 114758,
+    "extension": "png",
+    "file": "Cerebral_cortex,_side_view.svg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "hersenstam": {
+    "artist": "OpenStax",
+    "bytes": 212656,
+    "extension": "jpg",
+    "file": "1311_Brain_Stem.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "hersenvlies": {
+    "artist": "https://www.scientificanimations.com",
+    "bytes": 83779,
+    "extension": "jpg",
+    "file": "3D_Medical_Illustration_Meninges_Details.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "heupzenuw": {
+    "artist": "KDS4444",
+    "bytes": 66333,
+    "extension": "jpg",
+    "file": "Sciatic_nerve2.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "hypothalamus": {
+    "artist": "BruceBlaus",
+    "bytes": 201566,
+    "extension": "png",
+    "file": "Blausen 0536 HypothalamusLocation.png",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "kleine-hersenen": {
+    "artist": "NEUROtiker",
+    "bytes": 146247,
+    "extension": "png",
+    "file": "Gehirn,_lateral_-_Lobi_+_Stammhirn_+_Cerebellum_eng.svg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "ruggenmerg": {
+    "artist": "BruceBlaus",
+    "bytes": 353499,
+    "extension": "png",
+    "file": "Blausen_0822_SpinalCord.png",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "synaps": {
+    "artist": "Curtis Neveu",
+    "bytes": 228818,
+    "extension": "png",
+    "file": "Synapse_figure.png",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "zenuw": {
+    "artist": "OpenStax College",
+    "bytes": 83173,
+    "extension": "jpg",
+    "file": "1319_Nerve_StructureN.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "zenuwcel": {
+    "artist": "BruceBlaus",
+    "bytes": 240247,
+    "extension": "png",
+    "file": "Blausen_0657_MultipolarNeuron.png",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "zenuwstelsel": {
+    "artist": "Wikimedia Commons contributor",
+    "bytes": 142879,
+    "extension": "png",
+    "file": "TE-Nervous_system_diagram.svg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  }
+}

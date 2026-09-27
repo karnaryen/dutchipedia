@@ -1,0 +1,122 @@
+{
+  "adamsappel": {
+    "artist": "TONY LU",
+    "bytes": 182491,
+    "extension": "jpg",
+    "file": "Adam's apple 69A.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "bijholte": {
+    "artist": "OpenStax College",
+    "bytes": 157854,
+    "extension": "jpg",
+    "file": "Paranasal_Sinuses_ant.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "keel": {
+    "artist": "Persian Poet Gal at English Wikipedia",
+    "bytes": 225444,
+    "extension": "png",
+    "file": "Throat_Diagram.png",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "long": {
+    "artist": "Patrick J. Lynch, medical illustrator",
+    "bytes": 228965,
+    "extension": "png",
+    "file": "Lungs_diagram_detailed.svg",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+  },
+  "longblaasje": {
+    "artist": "LadyofHats",
+    "bytes": 196465,
+    "extension": "png",
+    "file": "Alveolus_diagram.svg",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "longkwab": {
+    "artist": "OpenStax College",
+    "bytes": 85755,
+    "extension": "jpg",
+    "file": "2312 Gross Anatomy of the Lungs.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "longvlies": {
+    "artist": "OpenStax College",
+    "bytes": 106305,
+    "extension": "jpg",
+    "file": "2313_The_Lung_Pleurea.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "luchtpijp": {
+    "artist": "Hariadhi",
+    "bytes": 147315,
+    "extension": "png",
+    "file": "Trachea svg hariadhi.svg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "luchtpijptak": {
+    "artist": "https://www.scientificanimations.com",
+    "bytes": 72495,
+    "extension": "jpg",
+    "file": "3D_Medical_Animation_Bronchus_Description.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "luchtwegen": {
+    "artist": "Lord Akryl, Jmarchn",
+    "bytes": 185779,
+    "extension": "png",
+    "file": "Illu_conducting_passages.svg",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "middenrif": {
+    "artist": "Theresa knott",
+    "bytes": 138788,
+    "extension": "png",
+    "file": "Respiratory_system.svg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "neusholte": {
+    "artist": "Arcadian",
+    "bytes": 55855,
+    "extension": "jpg",
+    "file": "Illu01_head_neck.jpg",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "stemband": {
+    "artist": "Henry Vandyke Carter",
+    "bytes": 33466,
+    "extension": "png",
+    "file": "Gray956.png",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "strotklepje": {
+    "artist": "Henry Vandyke Carter",
+    "bytes": 40995,
+    "extension": "png",
+    "file": "Gray958.png",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "strottenhoofd": {
+    "artist": "Olek Remesz (wiki-pl: Orem, commons: Orem)",
+    "bytes": 208409,
+    "extension": "png",
+    "file": "Larynx_external_en.svg",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+  }
+}

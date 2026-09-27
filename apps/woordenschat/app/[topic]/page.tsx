@@ -2,10 +2,11 @@ import { pageTitle } from '@dutchipedia/ui/lib/site';
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 
+import { WordSectionPage } from '@/features/words/word-section-page';
 import { WordTopicPage } from '@/features/words/word-topic-page';
-import { getWordTopic, listWordTopics } from '@/features/words/word-topics';
+import { getWordTopic, isWordSection, listWordTopics } from '@/features/words/word-topics';
 
-/** One statically rendered page per topic in content/words/topics.ts.
+/** One statically rendered page per topic or section in content/words/topics.ts.
  *  Anything else is a 404 rather than a render attempt. */
 export const dynamicParams = false;
 
@@ -28,5 +29,9 @@ export default async function TopicPage({ params }: PageProps<'/[topic]'>) {
   const topic = getWordTopic(slug);
   if (!topic) notFound();
 
-  return <WordTopicPage topic={topic} />;
+  return isWordSection(topic) ? (
+    <WordSectionPage section={topic} />
+  ) : (
+    <WordTopicPage topic={topic} />
+  );
 }
