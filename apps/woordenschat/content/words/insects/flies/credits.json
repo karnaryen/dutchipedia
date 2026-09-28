@@ -1,0 +1,138 @@
+{
+  "blinde-bij": {
+    "artist": "Stoxastikos",
+    "bytes": 71272,
+    "extension": "webp",
+    "file": "Eristalis_tenax_Male.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "bromvlieg": {
+    "artist": "TristramBrelstaff",
+    "bytes": 58830,
+    "extension": "webp",
+    "file": "Calliphora-vomitoria-Bluebottle-fly-20100806a.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "daas": {
+    "artist": "Bruce Marlin",
+    "bytes": 148174,
+    "extension": "webp",
+    "file": "Horse_fly_Tabanus_2.jpg",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  "fruitvlieg": {
+    "artist": "Sanjay Acharya",
+    "bytes": 19424,
+    "extension": "webp",
+    "file": "Drosophila_melanogaster_Proboscis.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "grijze-vleesvlieg": {
+    "artist": "Janet Graham",
+    "bytes": 93716,
+    "extension": "webp",
+    "file": "Sarcophaga_carnaria,_Marford_Quarry,_North_Wales,_May_2012_(17167424630).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "groene-vleesvlieg": {
+    "artist": "Charles J. Sharp",
+    "bytes": 39794,
+    "extension": "webp",
+    "file": "Common_green_bottle_flies_(Lucilia_sericata)_female_left_and_male_Bürgerpark.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "hertenluisvlieg": {
+    "artist": "Kymi",
+    "bytes": 28816,
+    "extension": "webp",
+    "file": "Lipoptena_cervi_1.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "hommelreus": {
+    "artist": "Sandy Rae",
+    "bytes": 65494,
+    "extension": "webp",
+    "file": "Voluc.bombylans.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "huisvlieg": {
+    "artist": "USDAgov",
+    "bytes": 43138,
+    "extension": "webp",
+    "file": "Common_house_fly,_Musca_domestica.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "pyjamazweefvlieg": {
+    "artist": "Charles J. Sharp",
+    "bytes": 36476,
+    "extension": "webp",
+    "file": "Marmalade_hoverfly_(Episyrphus_balteatus)_male_Wengen_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "roofvlieg": {
+    "artist": "Charles J. Sharp",
+    "bytes": 147330,
+    "extension": "webp",
+    "file": "Robber_fly_(Promachus_sp.)_female_with_bee_prey_Babadag.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "stalvlieg": {
+    "artist": "User:Fir0002",
+    "bytes": 68896,
+    "extension": "webp",
+    "file": "Stomoxys_calcitrans_on_aloe_vera.jpg",
+    "license": "GFDL 1.2",
+    "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html"
+  },
+  "strontvlieg": {
+    "artist": "Luc Viatour",
+    "bytes": 36754,
+    "extension": "webp",
+    "file": "Scatophaga_stercoraria_1_Luc_Viatour.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "tseetseevlieg": {
+    "artist": "Alan R Walker",
+    "bytes": 135876,
+    "extension": "webp",
+    "file": "Glossina-morsitans.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "wapenvlieg": {
+    "artist": "Didier Descouens",
+    "bytes": 95718,
+    "extension": "webp",
+    "file": "Hermetia_illucens_MHNT_Fronton.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "wolzwever": {
+    "artist": "Richard Bartz, Munich aka Makro Freak",
+    "bytes": 142516,
+    "extension": "webp",
+    "file": "Grosser_Wollschweber_Bombylius_major.jpg",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  "zweefvlieg": {
+    "artist": "Ivar Leidus",
+    "bytes": 53662,
+    "extension": "webp",
+    "file": "Berteroa incana - Syrphus ribesii - Tallinn.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}

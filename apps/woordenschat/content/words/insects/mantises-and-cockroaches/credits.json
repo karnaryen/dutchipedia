@@ -1,0 +1,82 @@
+{
+  "amerikaanse-kakkerlak": {
+    "artist": "Gary Alpert",
+    "bytes": 50930,
+    "extension": "webp",
+    "file": "American-cockroach.jpg",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+  },
+  "bidsprinkhaan": {
+    "artist": "Charles J. Sharp",
+    "bytes": 36838,
+    "extension": "webp",
+    "file": "European_praying_mantis_(Mantis_religiosa)_green_female_Dobruja.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "duitse-kakkerlak": {
+    "artist": "Bagous",
+    "bytes": 22624,
+    "extension": "webp",
+    "file": "Blatella_germanica_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "kakkerlak": {
+    "artist": "Dimitǎr Boevski",
+    "bytes": 49286,
+    "extension": "webp",
+    "file": "Blatta orientalis male from Botevgrad, Bulgaria 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "oorworm": {
+    "artist": "Rhododendrites",
+    "bytes": 184354,
+    "extension": "webp",
+    "file": "European_earwig_(81241).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "orchideebidsprinkhaan": {
+    "artist": "Luc Viatour",
+    "bytes": 45328,
+    "extension": "webp",
+    "file": "Mantis_Hymenopus_coronatus_6_Luc_Viatour.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "sissende-kakkerlak": {
+    "artist": "Almabes at English Wikipedia",
+    "bytes": 96574,
+    "extension": "webp",
+    "file": "Female_Madagascar_hissing_cockroach.JPG",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "termiet": {
+    "artist": "Photo by Scott Bauer.",
+    "bytes": 88252,
+    "extension": "webp",
+    "file": "Coptotermes_formosanus_shiraki_USGov_k8204-7.jpg",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "wandelend-blad": {
+    "artist": "Drägüs",
+    "bytes": 72002,
+    "extension": "webp",
+    "file": "Pulchriphyllium giganteum, adult femal from dorsal.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "wandelende-tak": {
+    "artist": "Fritz Geller-Grimm and Felix Grimm",
+    "bytes": 22772,
+    "extension": "webp",
+    "file": "Le_Caylar_fg01.JPG",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+  }
+}

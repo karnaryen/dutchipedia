@@ -1,0 +1,82 @@
+{
+  "cocon": {
+    "artist": "Biswarup Ganguly",
+    "bytes": 16748,
+    "extension": "webp",
+    "file": "Cocoon - Bombyx mori - Kolkata 2013-06-04 8547.JPG",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "ei": {
+    "artist": "Anitava Roy",
+    "bytes": 101830,
+    "extension": "webp",
+    "file": "Eggs of Amblypodia anita (Hewitson, 1862) - Purple Leaf Blue WLB.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "engerling": {
+    "artist": "AfroBrazilian",
+    "bytes": 107938,
+    "extension": "webp",
+    "file": "Melolontha melolontha 09.JPG",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "gedaanteverwisseling": {
+    "artist": "Clinton & Charles Robertson",
+    "bytes": 110728,
+    "extension": "webp",
+    "file": "Dragonfly_metamorphosis.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "larve": {
+    "artist": "Jürgen Howaldt",
+    "bytes": 110910,
+    "extension": "webp",
+    "file": "Asian Lady Beetle (Harmonia axyridis) Larva & Macrosiphum rosae (jh04).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "made": {
+    "artist": "Paul venter",
+    "bytes": 140644,
+    "extension": "webp",
+    "file": "Decomposition00.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "nimf": {
+    "artist": "Dick Culbert from Gibsons, B.C., Canada",
+    "bytes": 89814,
+    "extension": "webp",
+    "file": "Schistocerca_gregaria_(21530461886).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "pop": {
+    "artist": "Didier Descouens",
+    "bytes": 70628,
+    "extension": "webp",
+    "file": "Cetoine_global.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "rups": {
+    "artist": "Didier Descouens",
+    "bytes": 42596,
+    "extension": "webp",
+    "file": "Chenille_de_Grand_porte_queue_(macaon).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "vervelling": {
+    "artist": "Beatriz Moisset",
+    "bytes": 30086,
+    "extension": "webp",
+    "file": "Rhopalomyia_solidaginis_eclosion.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}

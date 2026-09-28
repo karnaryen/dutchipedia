@@ -2416,5 +2416,2054 @@
         }
       }
     ]
+  },
+  "insects": {
+    "title": "Insects",
+    "dutchTitle": "Insecten",
+    "description": "Six legs and a great many names: butterflies, beetles, bees, flies, dragonflies and the rest.",
+    "groups": [
+      {
+        "title": "The insect itself",
+        "dutchTitle": "Het insect zelf",
+        "topics": {
+          "insect-body": {
+            "title": "Body of an insect",
+            "dutchTitle": "Lichaam van een insect",
+            "description": "What an insect is made of, from de voelspriet to de angel.",
+            "words": [
+              {
+                "slug": "kop",
+                "dutch": "de kop",
+                "english": "the head",
+                "article": "Insect morphology",
+                "file": "Sarcophagid fly Portrait.jpg",
+                "note": "Pinned: the Insect morphology article leads with a cutaway diagram of the whole animal."
+              },
+              {
+                "slug": "borststuk",
+                "dutch": "het borststuk",
+                "english": "the thorax",
+                "article": "Thorax (arthropod anatomy)",
+                "file": "Carpenter Bee thorax and wings.jpg",
+                "note": "Pinned: the article leads with a labelled diagram of a shield bug."
+              },
+              {
+                "slug": "achterlijf",
+                "dutch": "het achterlijf",
+                "english": "the abdomen",
+                "article": "Abdomen",
+                "file": "Chalybion californicum M (16166810326).jpg",
+                "note": "Pinned: the Abdomen article leads with a human belly."
+              },
+              {
+                "slug": "voelspriet",
+                "dutch": "de voelspriet",
+                "english": "the antenna",
+                "article": "Antenna (zoology)"
+              },
+              {
+                "slug": "facetoog",
+                "dutch": "het facetoog",
+                "english": "the compound eye",
+                "article": "Compound eye",
+                "file": "Tabanus sp 20120812 1.jpg",
+                "note": "Pinned: the article leads with an electron micrograph of a krill's eye, which is not an insect."
+              },
+              {
+                "slug": "vleugel",
+                "dutch": "de vleugel",
+                "english": "the wing",
+                "article": "Insect wing",
+                "file": "Twelve Spotted Skimmer Wing (219490233).jpeg",
+                "note": "Pinned: the article leads with a labelled diagram of the veins."
+              },
+              {
+                "slug": "dekschild",
+                "dutch": "het dekschild",
+                "english": "the wing case",
+                "article": "Elytron",
+                "author": "Mario Sarto"
+              },
+              {
+                "slug": "poot",
+                "dutch": "de poot",
+                "english": "the leg",
+                "article": "Arthropod leg",
+                "file": "Grasshopper leg.tif",
+                "note": "Pinned: the Arthropod leg article has no lead image."
+              },
+              {
+                "slug": "angel",
+                "dutch": "de angel",
+                "english": "the sting",
+                "article": "Stinger"
+              },
+              {
+                "slug": "kaak",
+                "dutch": "de kaak",
+                "english": "the mandible",
+                "article": "Mandible (insect mouthpart)",
+                "author": "fir0002"
+              },
+              {
+                "slug": "roltong",
+                "dutch": "de roltong",
+                "english": "the proboscis",
+                "article": "Proboscis",
+                "file": "Brimstone butterfly with coiled proboscis in Tilehurst, Berkshire - geograph.org.uk - 3622306.jpg",
+                "note": "Pinned: the Proboscis article leads with a hoverfly, which has no roltong; this is a butterfly with its tongue rolled up."
+              },
+              {
+                "slug": "pantser",
+                "dutch": "het pantser",
+                "english": "the exoskeleton",
+                "article": "Exoskeleton"
+              },
+              {
+                "slug": "legboor",
+                "dutch": "de legboor",
+                "english": "the ovipositor",
+                "article": "Ovipositor"
+              },
+              {
+                "slug": "haltertje",
+                "dutch": "het haltertje",
+                "english": "the haltere",
+                "article": "Halteres",
+                "file": "Tipula Halter.jpg",
+                "note": "Pinned: the article leads with a diagram of a whole fly; this is the haltere itself."
+              }
+            ]
+          },
+          "life-cycle": {
+            "title": "Life cycle",
+            "dutchTitle": "Levenscyclus",
+            "description": "From het ei to the grown insect, and the shapes it takes in between.",
+            "words": [
+              {
+                "slug": "ei",
+                "dutch": "het ei",
+                "english": "the egg",
+                "article": "Insect egg",
+                "file": "Eggs of Amblypodia anita (Hewitson, 1862) - Purple Leaf Blue WLB.jpg",
+                "note": "Pinned: the article redirects to Egg, which leads with a plate of birds' eggs."
+              },
+              {
+                "slug": "larve",
+                "dutch": "de larve",
+                "english": "the larva",
+                "article": "Larva",
+                "file": "Asian Lady Beetle (Harmonia axyridis) Larva & Macrosiphum rosae (jh04).jpg",
+                "note": "Pinned: the article leads with a blurred wasp larva."
+              },
+              {
+                "slug": "rups",
+                "dutch": "de rups",
+                "english": "the caterpillar",
+                "article": "Caterpillar"
+              },
+              {
+                "slug": "made",
+                "dutch": "de made",
+                "english": "the maggot",
+                "article": "Maggot"
+              },
+              {
+                "slug": "engerling",
+                "dutch": "de engerling",
+                "english": "the grub",
+                "article": "Scarabaeiform",
+                "file": "Melolontha melolontha 09.JPG",
+                "note": "Pinned: there is no article for the grub of a chafer."
+              },
+              {
+                "slug": "pop",
+                "dutch": "de pop",
+                "english": "the pupa",
+                "article": "Pupa"
+              },
+              {
+                "slug": "cocon",
+                "dutch": "de cocon",
+                "english": "the cocoon",
+                "article": "Cocoon (silk)",
+                "file": "Cocoon - Bombyx mori - Kolkata 2013-06-04 8547.JPG",
+                "note": "Pinned: the article redirects to Pupa, the picture de pop uses."
+              },
+              {
+                "slug": "nimf",
+                "dutch": "de nimf",
+                "english": "the nymph",
+                "article": "Nymph (biology)"
+              },
+              {
+                "slug": "gedaanteverwisseling",
+                "dutch": "de gedaanteverwisseling",
+                "english": "the metamorphosis",
+                "article": "Metamorphosis",
+                "author": "Clinton & Charles Robertson"
+              },
+              {
+                "slug": "vervelling",
+                "dutch": "de vervelling",
+                "english": "the moult",
+                "article": "Ecdysis"
+              }
+            ]
+          },
+          "nests-and-honey": {
+            "title": "Nests and honey",
+            "dutchTitle": "Nesten en honing",
+            "description": "What insects build and make, and what people do with it.",
+            "words": [
+              {
+                "slug": "bijenkorf",
+                "dutch": "de bijenkorf",
+                "english": "the beehive",
+                "article": "Beehive"
+              },
+              {
+                "slug": "honingraat",
+                "dutch": "de honingraat",
+                "english": "the honeycomb",
+                "article": "Honeycomb"
+              },
+              {
+                "slug": "honing",
+                "dutch": "de honing",
+                "english": "the honey",
+                "article": "Honey"
+              },
+              {
+                "slug": "bijenwas",
+                "dutch": "de bijenwas",
+                "english": "the beeswax",
+                "article": "Beeswax",
+                "file": "Pure Natural Beeswax Blocks.jpg",
+                "note": "Pinned: the article leads with the honeycomb de honingraat uses."
+              },
+              {
+                "slug": "stuifmeel",
+                "dutch": "het stuifmeel",
+                "english": "the pollen",
+                "article": "Pollen",
+                "file": "Staub 001 2018 06 14.jpg",
+                "note": "Pinned: the article leads with a false-colour micrograph."
+              },
+              {
+                "slug": "nectar",
+                "dutch": "de nectar",
+                "english": "the nectar",
+                "article": "Nectar"
+              },
+              {
+                "slug": "bestuiving",
+                "dutch": "de bestuiving",
+                "english": "the pollination",
+                "article": "Pollination",
+                "file": "Pollen Dusted Bee (11027119186).jpg",
+                "note": "Pinned: the article leads with a labelled diagram of a flower."
+              },
+              {
+                "slug": "imker",
+                "dutch": "de imker",
+                "english": "the beekeeper",
+                "article": "Beekeeper"
+              },
+              {
+                "slug": "bijenkoningin",
+                "dutch": "de bijenkoningin",
+                "english": "the queen bee",
+                "article": "Queen bee"
+              },
+              {
+                "slug": "werkbij",
+                "dutch": "de werkbij",
+                "english": "the worker bee",
+                "article": "Worker bee"
+              },
+              {
+                "slug": "dar",
+                "dutch": "de dar",
+                "english": "the drone",
+                "article": "Drone (bee)"
+              },
+              {
+                "slug": "zwerm",
+                "dutch": "de zwerm",
+                "english": "the swarm",
+                "article": "Swarm behaviour",
+                "file": "2024-04-27 12 46 54 A honey bee swarm on a fir tree branch along Aquetong Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+                "note": "Pinned: the Swarm behaviour article leads with a flock of birds."
+              },
+              {
+                "slug": "wespennest",
+                "dutch": "het wespennest",
+                "english": "the wasps' nest",
+                "article": "Wasp",
+                "file": "Wasp nest, Dnipro, Ukraine.jpg",
+                "note": "Pinned: the Wasp article leads with the wasp, not its nest."
+              },
+              {
+                "slug": "mierenhoop",
+                "dutch": "de mierenhoop",
+                "english": "the anthill",
+                "article": "Ant colony",
+                "file": "Large red wood anthill against a spruce tree at Stursbøl plantage. (73972).jpg",
+                "note": "Pinned: the article leads with a museum cast of a nest, a man beside it."
+              },
+              {
+                "slug": "termietenheuvel",
+                "dutch": "de termietenheuvel",
+                "english": "the termite mound",
+                "article": "Mound-building termites"
+              },
+              {
+                "slug": "gal",
+                "dutch": "de gal",
+                "english": "the gall",
+                "article": "Gall"
+              },
+              {
+                "slug": "zijde",
+                "dutch": "de zijde",
+                "english": "the silk",
+                "article": "Silk",
+                "file": "Silk fiber.jpg",
+                "note": "Pinned: the article leads with a reeling machine."
+              },
+              {
+                "slug": "insectenhotel",
+                "dutch": "het insectenhotel",
+                "english": "the insect hotel",
+                "article": "Insect hotel"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "title": "Butterflies and moths",
+        "dutchTitle": "Vlinders",
+        "topics": {
+          "butterflies": {
+            "title": "Butterflies",
+            "dutchTitle": "Dagvlinders",
+            "description": "The ones that fly by day, from het koolwitje to de koninginnenpage.",
+            "words": [
+              {
+                "slug": "dagpauwoog",
+                "dutch": "de dagpauwoog",
+                "english": "the peacock butterfly",
+                "article": "Aglais io"
+              },
+              {
+                "slug": "atalanta",
+                "dutch": "de atalanta",
+                "english": "the red admiral",
+                "article": "Vanessa atalanta"
+              },
+              {
+                "slug": "kleine-vos",
+                "dutch": "de kleine vos",
+                "english": "the small tortoiseshell",
+                "article": "Small tortoiseshell"
+              },
+              {
+                "slug": "citroenvlinder",
+                "dutch": "de citroenvlinder",
+                "english": "the brimstone",
+                "article": "Gonepteryx rhamni"
+              },
+              {
+                "slug": "groot-koolwitje",
+                "dutch": "het groot koolwitje",
+                "english": "the large white",
+                "article": "Pieris brassicae"
+              },
+              {
+                "slug": "klein-koolwitje",
+                "dutch": "het klein koolwitje",
+                "english": "the small white",
+                "article": "Pieris rapae"
+              },
+              {
+                "slug": "klein-geaderd-witje",
+                "dutch": "het klein geaderd witje",
+                "english": "the green-veined white",
+                "article": "Green-veined white"
+              },
+              {
+                "slug": "oranjetipje",
+                "dutch": "het oranjetipje",
+                "english": "the orange tip",
+                "article": "Anthocharis cardamines"
+              },
+              {
+                "slug": "distelvlinder",
+                "dutch": "de distelvlinder",
+                "english": "the painted lady",
+                "article": "Vanessa cardui"
+              },
+              {
+                "slug": "koninginnenpage",
+                "dutch": "de koninginnenpage",
+                "english": "the swallowtail",
+                "article": "Papilio machaon"
+              },
+              {
+                "slug": "gehakkelde-aurelia",
+                "dutch": "de gehakkelde aurelia",
+                "english": "the comma",
+                "article": "Polygonia c-album"
+              },
+              {
+                "slug": "landkaartje",
+                "dutch": "het landkaartje",
+                "english": "the map butterfly",
+                "article": "Araschnia levana"
+              },
+              {
+                "slug": "icarusblauwtje",
+                "dutch": "het icarusblauwtje",
+                "english": "the common blue",
+                "article": "Common blue"
+              },
+              {
+                "slug": "boomblauwtje",
+                "dutch": "het boomblauwtje",
+                "english": "the holly blue",
+                "article": "Holly blue"
+              },
+              {
+                "slug": "kleine-vuurvlinder",
+                "dutch": "de kleine vuurvlinder",
+                "english": "the small copper",
+                "article": "Small copper"
+              },
+              {
+                "slug": "bont-zandoogje",
+                "dutch": "het bont zandoogje",
+                "english": "the speckled wood",
+                "article": "Speckled wood (butterfly)"
+              },
+              {
+                "slug": "bruin-zandoogje",
+                "dutch": "het bruin zandoogje",
+                "english": "the meadow brown",
+                "article": "Meadow brown"
+              },
+              {
+                "slug": "koevinkje",
+                "dutch": "het koevinkje",
+                "english": "the ringlet",
+                "article": "Ringlet"
+              },
+              {
+                "slug": "hooibeestje",
+                "dutch": "het hooibeestje",
+                "english": "the small heath",
+                "article": "Small heath (butterfly)"
+              },
+              {
+                "slug": "argusvlinder",
+                "dutch": "de argusvlinder",
+                "english": "the wall brown",
+                "article": "Lasiommata megera"
+              },
+              {
+                "slug": "rouwmantel",
+                "dutch": "de rouwmantel",
+                "english": "the mourning cloak",
+                "article": "Nymphalis antiopa"
+              },
+              {
+                "slug": "keizersmantel",
+                "dutch": "de keizersmantel",
+                "english": "the silver-washed fritillary",
+                "article": "Silver-washed fritillary"
+              },
+              {
+                "slug": "grote-weerschijnvlinder",
+                "dutch": "de grote weerschijnvlinder",
+                "english": "the purple emperor",
+                "article": "Apatura iris"
+              },
+              {
+                "slug": "kleine-ijsvogelvlinder",
+                "dutch": "de kleine ijsvogelvlinder",
+                "english": "the white admiral",
+                "article": "Limenitis camilla"
+              },
+              {
+                "slug": "groentje",
+                "dutch": "het groentje",
+                "english": "the green hairstreak",
+                "article": "Green hairstreak"
+              },
+              {
+                "slug": "zwartsprietdikkopje",
+                "dutch": "het zwartsprietdikkopje",
+                "english": "the Essex skipper",
+                "article": "Essex skipper"
+              },
+              {
+                "slug": "oranje-luzernevlinder",
+                "dutch": "de oranje luzernevlinder",
+                "english": "the clouded yellow",
+                "article": "Colias croceus"
+              },
+              {
+                "slug": "apollovlinder",
+                "dutch": "de apollovlinder",
+                "english": "the Apollo",
+                "article": "Parnassius apollo"
+              },
+              {
+                "slug": "monarchvlinder",
+                "dutch": "de monarchvlinder",
+                "english": "the monarch",
+                "article": "Monarch butterfly"
+              }
+            ]
+          },
+          "moths": {
+            "title": "Moths",
+            "dutchTitle": "Nachtvlinders",
+            "description": "The far larger family that mostly flies after dark — and a few that do not wait for it.",
+            "words": [
+              {
+                "slug": "kolibrievlinder",
+                "dutch": "de kolibrievlinder",
+                "english": "the hummingbird hawk-moth",
+                "article": "Hummingbird hawk-moth"
+              },
+              {
+                "slug": "doodshoofdvlinder",
+                "dutch": "de doodshoofdvlinder",
+                "english": "the death's-head hawkmoth",
+                "article": "Acherontia atropos"
+              },
+              {
+                "slug": "ligusterpijlstaart",
+                "dutch": "de ligusterpijlstaart",
+                "english": "the privet hawk-moth",
+                "article": "Sphinx ligustri"
+              },
+              {
+                "slug": "lindepijlstaart",
+                "dutch": "de lindepijlstaart",
+                "english": "the lime hawk-moth",
+                "article": "Mimas tiliae"
+              },
+              {
+                "slug": "windepijlstaart",
+                "dutch": "de windepijlstaart",
+                "english": "the convolvulus hawk-moth",
+                "article": "Agrius convolvuli",
+                "file": "Agrius convolvuli (2005-08) 01.jpg",
+                "note": "Pinned: the article leads with a moth sitting on a printed page."
+              },
+              {
+                "slug": "groot-avondrood",
+                "dutch": "het groot avondrood",
+                "english": "the elephant hawk-moth",
+                "article": "Deilephila elpenor"
+              },
+              {
+                "slug": "nachtpauwoog",
+                "dutch": "de nachtpauwoog",
+                "english": "the emperor moth",
+                "article": "Saturnia pavonia"
+              },
+              {
+                "slug": "atlasvlinder",
+                "dutch": "de atlasvlinder",
+                "english": "the Atlas moth",
+                "article": "Attacus atlas"
+              },
+              {
+                "slug": "zijdevlinder",
+                "dutch": "de zijdevlinder",
+                "english": "the silk moth",
+                "article": "Bombyx mori"
+              },
+              {
+                "slug": "sint-jacobsvlinder",
+                "dutch": "de sint-jacobsvlinder",
+                "english": "the cinnabar moth",
+                "article": "Cinnabar moth"
+              },
+              {
+                "slug": "sint-jansvlinder",
+                "dutch": "de sint-jansvlinder",
+                "english": "the six-spot burnet",
+                "article": "Six-spot burnet"
+              },
+              {
+                "slug": "grote-beer",
+                "dutch": "de grote beer",
+                "english": "the garden tiger moth",
+                "article": "Garden tiger moth",
+                "author": "Marek Szczepanek"
+              },
+              {
+                "slug": "gamma-uil",
+                "dutch": "de gamma-uil",
+                "english": "the silver Y",
+                "article": "Silver Y"
+              },
+              {
+                "slug": "huismoeder",
+                "dutch": "de huismoeder",
+                "english": "the large yellow underwing",
+                "article": "Large yellow underwing"
+              },
+              {
+                "slug": "rood-weeskind",
+                "dutch": "het rood weeskind",
+                "english": "the red underwing",
+                "article": "Catocala nupta"
+              },
+              {
+                "slug": "wapendrager",
+                "dutch": "de wapendrager",
+                "english": "the buff-tip",
+                "article": "Buff-tip"
+              },
+              {
+                "slug": "hermelijnvlinder",
+                "dutch": "de hermelijnvlinder",
+                "english": "the puss moth",
+                "article": "Cerura vinula"
+              },
+              {
+                "slug": "peper-en-zoutvlinder",
+                "dutch": "de peper-en-zoutvlinder",
+                "english": "the peppered moth",
+                "article": "Peppered moth"
+              },
+              {
+                "slug": "plakker",
+                "dutch": "de plakker",
+                "english": "the spongy moth",
+                "article": "Lymantria dispar"
+              },
+              {
+                "slug": "eikenprocessierups",
+                "dutch": "de eikenprocessierups",
+                "english": "the oak processionary",
+                "article": "Oak processionary"
+              },
+              {
+                "slug": "buxusmot",
+                "dutch": "de buxusmot",
+                "english": "the box tree moth",
+                "article": "Cydalima perspectalis"
+              },
+              {
+                "slug": "kleermot",
+                "dutch": "de kleermot",
+                "english": "the clothes moth",
+                "article": "Tineola bisselliella"
+              },
+              {
+                "slug": "indische-meelmot",
+                "dutch": "de Indische meelmot",
+                "english": "the Indian meal moth",
+                "article": "Indianmeal moth"
+              },
+              {
+                "slug": "fruitmot",
+                "dutch": "de fruitmot",
+                "english": "the codling moth",
+                "article": "Codling moth"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "title": "Beetles",
+        "dutchTitle": "Kevers",
+        "topics": {
+          "garden-beetles": {
+            "title": "Beetles of garden and wood",
+            "dutchTitle": "Kevers van tuin en bos",
+            "description": "The beetles you meet outdoors, from het lieveheersbeestje to het vliegend hert.",
+            "words": [
+              {
+                "slug": "lieveheersbeestje",
+                "dutch": "het lieveheersbeestje",
+                "english": "the ladybird",
+                "article": "Coccinella septempunctata"
+              },
+              {
+                "slug": "aziatisch-lieveheersbeestje",
+                "dutch": "het Aziatisch lieveheersbeestje",
+                "english": "the harlequin ladybird",
+                "article": "Harmonia axyridis",
+                "file": "Coccinelle asiatique (Harmonia axyridis).jpg",
+                "note": "Pinned: the article leads with a grid of sixteen small photographs."
+              },
+              {
+                "slug": "meikever",
+                "dutch": "de meikever",
+                "english": "the cockchafer",
+                "article": "Cockchafer"
+              },
+              {
+                "slug": "junikever",
+                "dutch": "de junikever",
+                "english": "the summer chafer",
+                "article": "Amphimallon solstitiale",
+                "author": "Entomart"
+              },
+              {
+                "slug": "rozenkever",
+                "dutch": "de rozenkever",
+                "english": "the garden chafer",
+                "article": "Phyllopertha horticola"
+              },
+              {
+                "slug": "gouden-tor",
+                "dutch": "de gouden tor",
+                "english": "the rose chafer",
+                "article": "Cetonia aurata"
+              },
+              {
+                "slug": "vliegend-hert",
+                "dutch": "het vliegend hert",
+                "english": "the stag beetle",
+                "article": "Lucanus cervus"
+              },
+              {
+                "slug": "neushoornkever",
+                "dutch": "de neushoornkever",
+                "english": "the rhinoceros beetle",
+                "article": "Oryctes nasicornis"
+              },
+              {
+                "slug": "mestkever",
+                "dutch": "de mestkever",
+                "english": "the dung beetle",
+                "article": "Geotrupes stercorarius"
+              },
+              {
+                "slug": "doodgraver",
+                "dutch": "de doodgraver",
+                "english": "the burying beetle",
+                "article": "Nicrophorus vespillo"
+              },
+              {
+                "slug": "loopkever",
+                "dutch": "de loopkever",
+                "english": "the ground beetle",
+                "article": "Ground beetle"
+              },
+              {
+                "slug": "groene-zandloopkever",
+                "dutch": "de groene zandloopkever",
+                "english": "the green tiger beetle",
+                "article": "Cicindela campestris"
+              },
+              {
+                "slug": "glimworm",
+                "dutch": "de glimworm",
+                "english": "the glow-worm",
+                "article": "Lampyris noctiluca"
+              },
+              {
+                "slug": "vuurvliegje",
+                "dutch": "het vuurvliegje",
+                "english": "the firefly",
+                "article": "Firefly"
+              },
+              {
+                "slug": "soldaatje",
+                "dutch": "het soldaatje",
+                "english": "the soldier beetle",
+                "article": "Rhagonycha fulva"
+              },
+              {
+                "slug": "kniptor",
+                "dutch": "de kniptor",
+                "english": "the click beetle",
+                "article": "Click beetle"
+              },
+              {
+                "slug": "boktor",
+                "dutch": "de boktor",
+                "english": "the longhorn beetle",
+                "article": "Longhorn beetle"
+              },
+              {
+                "slug": "muskusboktor",
+                "dutch": "de muskusboktor",
+                "english": "the musk beetle",
+                "article": "Aromia moschata"
+              },
+              {
+                "slug": "snuitkever",
+                "dutch": "de snuitkever",
+                "english": "the weevil",
+                "article": "Weevil"
+              },
+              {
+                "slug": "oliekever",
+                "dutch": "de oliekever",
+                "english": "the oil beetle",
+                "article": "Meloe proscarabaeus"
+              },
+              {
+                "slug": "zwartkopvuurkever",
+                "dutch": "de zwartkopvuurkever",
+                "english": "the black-headed cardinal beetle",
+                "article": "Pyrochroa coccinea"
+              },
+              {
+                "slug": "kortschildkever",
+                "dutch": "de kortschildkever",
+                "english": "the rove beetle",
+                "article": "Rove beetle",
+                "file": "Ocypus olens qtl1.jpg",
+                "note": "Pinned: the article leads with an engraved plate of forty beetles."
+              },
+              {
+                "slug": "bombardeerkever",
+                "dutch": "de bombardeerkever",
+                "english": "the bombardier beetle",
+                "article": "Bombardier beetle"
+              },
+              {
+                "slug": "prachtkever",
+                "dutch": "de prachtkever",
+                "english": "the jewel beetle",
+                "article": "Buprestidae",
+                "file": "Chrysochroa fulgidissima (Tamamushi) In Nature.PNG",
+                "note": "Pinned: the article leads with an engraved plate."
+              }
+            ]
+          },
+          "pest-and-giant-beetles": {
+            "title": "Pests, swimmers and giants",
+            "dutchTitle": "Plagen, zwemmers en reuzen",
+            "description": "Beetles in the potato field, in the beam and in the pond, and the largest ones of the tropics.",
+            "words": [
+              {
+                "slug": "coloradokever",
+                "dutch": "de coloradokever",
+                "english": "the Colorado potato beetle",
+                "article": "Colorado potato beetle"
+              },
+              {
+                "slug": "leliehaantje",
+                "dutch": "het leliehaantje",
+                "english": "the scarlet lily beetle",
+                "article": "Scarlet lily beetle"
+              },
+              {
+                "slug": "letterzetter",
+                "dutch": "de letterzetter",
+                "english": "the spruce bark beetle",
+                "article": "Ips typographus"
+              },
+              {
+                "slug": "houtworm",
+                "dutch": "de houtworm",
+                "english": "the woodworm",
+                "article": "Common furniture beetle",
+                "author": "Entomart"
+              },
+              {
+                "slug": "huisboktor",
+                "dutch": "de huisboktor",
+                "english": "the house longhorn beetle",
+                "article": "Hylotrupes"
+              },
+              {
+                "slug": "bonte-knaagkever",
+                "dutch": "de bonte knaagkever",
+                "english": "the deathwatch beetle",
+                "article": "Deathwatch beetle"
+              },
+              {
+                "slug": "meeltor",
+                "dutch": "de meeltor",
+                "english": "the mealworm beetle",
+                "article": "Mealworm"
+              },
+              {
+                "slug": "spekkever",
+                "dutch": "de spekkever",
+                "english": "the larder beetle",
+                "article": "Dermestes lardarius"
+              },
+              {
+                "slug": "museumkever",
+                "dutch": "de museumkever",
+                "english": "the varied carpet beetle",
+                "article": "Varied carpet beetle"
+              },
+              {
+                "slug": "graanklander",
+                "dutch": "de graanklander",
+                "english": "the wheat weevil",
+                "article": "Wheat weevil",
+                "file": "Sitophilus granarius TP03.jpg",
+                "note": "Pinned: the article leads with an engraving."
+              },
+              {
+                "slug": "geelgerande-waterkever",
+                "dutch": "de geelgerande waterkever",
+                "english": "the great diving beetle",
+                "article": "Dytiscus marginalis",
+                "file": "Schiermonnikoog - Gewone geelrand (Dytiscus marginalis).jpg",
+                "note": "Pinned: the article leads with the underside, where the yellow edge does not show."
+              },
+              {
+                "slug": "schrijvertje",
+                "dutch": "het schrijvertje",
+                "english": "the whirligig beetle",
+                "article": "Whirligig beetle"
+              },
+              {
+                "slug": "spinnende-watertor",
+                "dutch": "de spinnende watertor",
+                "english": "the great silver water beetle",
+                "article": "Hydrophilus piceus"
+              },
+              {
+                "slug": "herculeskever",
+                "dutch": "de herculeskever",
+                "english": "the Hercules beetle",
+                "article": "Hercules beetle"
+              },
+              {
+                "slug": "goliathkever",
+                "dutch": "de goliathkever",
+                "english": "the Goliath beetle",
+                "article": "Goliathus",
+                "author": "fir0002"
+              },
+              {
+                "slug": "heilige-pillenkever",
+                "dutch": "de heilige pillenkever",
+                "english": "the sacred scarab",
+                "article": "Scarabaeus sacer"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "title": "Bees, wasps and ants",
+        "dutchTitle": "Bijen, wespen en mieren",
+        "topics": {
+          "bees": {
+            "title": "Bees and bumblebees",
+            "dutchTitle": "Bijen en hommels",
+            "description": "The honey bee, its wild relatives and the bumblebees.",
+            "words": [
+              {
+                "slug": "honingbij",
+                "dutch": "de honingbij",
+                "english": "the honey bee",
+                "article": "Western honey bee"
+              },
+              {
+                "slug": "hommel",
+                "dutch": "de hommel",
+                "english": "the bumblebee",
+                "article": "Bumblebee"
+              },
+              {
+                "slug": "aardhommel",
+                "dutch": "de aardhommel",
+                "english": "the buff-tailed bumblebee",
+                "article": "Bombus terrestris"
+              },
+              {
+                "slug": "steenhommel",
+                "dutch": "de steenhommel",
+                "english": "the red-tailed bumblebee",
+                "article": "Bombus lapidarius"
+              },
+              {
+                "slug": "akkerhommel",
+                "dutch": "de akkerhommel",
+                "english": "the common carder bee",
+                "article": "Bombus pascuorum"
+              },
+              {
+                "slug": "tuinhommel",
+                "dutch": "de tuinhommel",
+                "english": "the garden bumblebee",
+                "article": "Bombus hortorum"
+              },
+              {
+                "slug": "boomhommel",
+                "dutch": "de boomhommel",
+                "english": "the tree bumblebee",
+                "article": "Bombus hypnorum"
+              },
+              {
+                "slug": "weidehommel",
+                "dutch": "de weidehommel",
+                "english": "the early bumblebee",
+                "article": "Bombus pratorum"
+              },
+              {
+                "slug": "rosse-metselbij",
+                "dutch": "de rosse metselbij",
+                "english": "the red mason bee",
+                "article": "Osmia bicornis"
+              },
+              {
+                "slug": "gehoornde-metselbij",
+                "dutch": "de gehoornde metselbij",
+                "english": "the horned mason bee",
+                "article": "Osmia cornuta"
+              },
+              {
+                "slug": "behangersbij",
+                "dutch": "de behangersbij",
+                "english": "the leafcutter bee",
+                "article": "Megachile centuncularis"
+              },
+              {
+                "slug": "houtbij",
+                "dutch": "de blauwzwarte houtbij",
+                "english": "the violet carpenter bee",
+                "article": "Xylocopa violacea"
+              },
+              {
+                "slug": "vosje",
+                "dutch": "het vosje",
+                "english": "the tawny mining bee",
+                "article": "Tawny mining bee",
+                "author": "Entomart"
+              },
+              {
+                "slug": "asbij",
+                "dutch": "de asbij",
+                "english": "the ashy mining bee",
+                "article": "Andrena cineraria"
+              },
+              {
+                "slug": "wolbij",
+                "dutch": "de grote wolbij",
+                "english": "the wool carder bee",
+                "article": "Anthidium manicatum"
+              },
+              {
+                "slug": "pluimvoetbij",
+                "dutch": "de pluimvoetbij",
+                "english": "the pantaloon bee",
+                "article": "Dasypoda hirtipes"
+              },
+              {
+                "slug": "klimopbij",
+                "dutch": "de klimopbij",
+                "english": "the ivy bee",
+                "article": "Colletes hederae"
+              },
+              {
+                "slug": "sachembij",
+                "dutch": "de gewone sachembij",
+                "english": "the hairy-footed flower bee",
+                "article": "Anthophora plumipes"
+              }
+            ]
+          },
+          "wasps-and-ants": {
+            "title": "Wasps and ants",
+            "dutchTitle": "Wespen en mieren",
+            "description": "The ones with a narrow waist: wasps, hornets and the ants at your feet.",
+            "words": [
+              {
+                "slug": "gewone-wesp",
+                "dutch": "de gewone wesp",
+                "english": "the common wasp",
+                "article": "Vespula vulgaris"
+              },
+              {
+                "slug": "duitse-wesp",
+                "dutch": "de Duitse wesp",
+                "english": "the German wasp",
+                "article": "Vespula germanica"
+              },
+              {
+                "slug": "hoornaar",
+                "dutch": "de hoornaar",
+                "english": "the hornet",
+                "article": "European hornet",
+                "file": "Vespa crabro germana with prey Richard Bartz Crop.jpg",
+                "note": "Pinned: the article leads with a strip of three pinned specimens."
+              },
+              {
+                "slug": "aziatische-hoornaar",
+                "dutch": "de Aziatische hoornaar",
+                "english": "the Asian hornet",
+                "article": "Asian hornet"
+              },
+              {
+                "slug": "franse-veldwesp",
+                "dutch": "de Franse veldwesp",
+                "english": "the European paper wasp",
+                "article": "Polistes dominula"
+              },
+              {
+                "slug": "bijenwolf",
+                "dutch": "de bijenwolf",
+                "english": "the bee wolf",
+                "article": "European beewolf"
+              },
+              {
+                "slug": "sluipwesp",
+                "dutch": "de sluipwesp",
+                "english": "the ichneumon wasp",
+                "article": "Ichneumonidae"
+              },
+              {
+                "slug": "galwesp",
+                "dutch": "de galwesp",
+                "english": "the gall wasp",
+                "article": "Gall wasp"
+              },
+              {
+                "slug": "goudwesp",
+                "dutch": "de goudwesp",
+                "english": "the ruby-tailed wasp",
+                "article": "Chrysis ignita"
+              },
+              {
+                "slug": "bladwesp",
+                "dutch": "de bladwesp",
+                "english": "the sawfly",
+                "article": "Sawfly"
+              },
+              {
+                "slug": "reuzenhoutwesp",
+                "dutch": "de reuzenhoutwesp",
+                "english": "the giant woodwasp",
+                "article": "Urocerus gigas"
+              },
+              {
+                "slug": "graafwesp",
+                "dutch": "de graafwesp",
+                "english": "the digger wasp",
+                "article": "Crabronidae"
+              },
+              {
+                "slug": "mier",
+                "dutch": "de mier",
+                "english": "the ant",
+                "article": "Ant"
+              },
+              {
+                "slug": "rode-bosmier",
+                "dutch": "de rode bosmier",
+                "english": "the red wood ant",
+                "article": "Formica rufa"
+              },
+              {
+                "slug": "wegmier",
+                "dutch": "de wegmier",
+                "english": "the black garden ant",
+                "article": "Black garden ant"
+              },
+              {
+                "slug": "gele-weidemier",
+                "dutch": "de gele weidemier",
+                "english": "the yellow meadow ant",
+                "article": "Yellow meadow ant"
+              },
+              {
+                "slug": "faraomier",
+                "dutch": "de faraomier",
+                "english": "the pharaoh ant",
+                "article": "Pharaoh ant"
+              },
+              {
+                "slug": "bladsnijdersmier",
+                "dutch": "de bladsnijdersmier",
+                "english": "the leafcutter ant",
+                "article": "Leafcutter ant"
+              },
+              {
+                "slug": "wevermier",
+                "dutch": "de wevermier",
+                "english": "the weaver ant",
+                "article": "Weaver ant"
+              },
+              {
+                "slug": "vuurmier",
+                "dutch": "de vuurmier",
+                "english": "the fire ant",
+                "article": "Fire ant",
+                "author": "Scott Bauer, USDA ARS"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "title": "Flies and mosquitoes",
+        "dutchTitle": "Vliegen en muggen",
+        "topics": {
+          "flies": {
+            "title": "Flies",
+            "dutchTitle": "Vliegen",
+            "description": "Two wings and short antennae: the ones that buzz, hover and bite.",
+            "words": [
+              {
+                "slug": "huisvlieg",
+                "dutch": "de huisvlieg",
+                "english": "the housefly",
+                "article": "Housefly"
+              },
+              {
+                "slug": "bromvlieg",
+                "dutch": "de bromvlieg",
+                "english": "the bluebottle",
+                "article": "Calliphora vomitoria"
+              },
+              {
+                "slug": "groene-vleesvlieg",
+                "dutch": "de groene vleesvlieg",
+                "english": "the greenbottle",
+                "article": "Common green bottle fly"
+              },
+              {
+                "slug": "grijze-vleesvlieg",
+                "dutch": "de grijze vleesvlieg",
+                "english": "the flesh fly",
+                "article": "Sarcophaga carnaria"
+              },
+              {
+                "slug": "fruitvlieg",
+                "dutch": "de fruitvlieg",
+                "english": "the fruit fly",
+                "article": "Drosophila melanogaster"
+              },
+              {
+                "slug": "zweefvlieg",
+                "dutch": "de zweefvlieg",
+                "english": "the hoverfly",
+                "article": "Hoverfly",
+                "file": "Berteroa incana - Syrphus ribesii - Tallinn.jpg",
+                "note": "Pinned: the article leads with a grid of sixteen small photographs."
+              },
+              {
+                "slug": "pyjamazweefvlieg",
+                "dutch": "de pyjamazweefvlieg",
+                "english": "the marmalade hoverfly",
+                "article": "Episyrphus balteatus"
+              },
+              {
+                "slug": "blinde-bij",
+                "dutch": "de blinde bij",
+                "english": "the drone fly",
+                "article": "Eristalis tenax"
+              },
+              {
+                "slug": "hommelreus",
+                "dutch": "de hommelreus",
+                "english": "the bumblebee hoverfly",
+                "article": "Volucella bombylans"
+              },
+              {
+                "slug": "daas",
+                "dutch": "de daas",
+                "english": "the horsefly",
+                "article": "Horse-fly"
+              },
+              {
+                "slug": "stalvlieg",
+                "dutch": "de stalvlieg",
+                "english": "the stable fly",
+                "article": "Stable fly"
+              },
+              {
+                "slug": "strontvlieg",
+                "dutch": "de strontvlieg",
+                "english": "the yellow dung fly",
+                "article": "Scathophaga stercoraria"
+              },
+              {
+                "slug": "wolzwever",
+                "dutch": "de wolzwever",
+                "english": "the bee-fly",
+                "article": "Bombylius major"
+              },
+              {
+                "slug": "roofvlieg",
+                "dutch": "de roofvlieg",
+                "english": "the robber fly",
+                "article": "Asilidae"
+              },
+              {
+                "slug": "hertenluisvlieg",
+                "dutch": "de hertenluisvlieg",
+                "english": "the deer ked",
+                "article": "Lipoptena cervi"
+              },
+              {
+                "slug": "wapenvlieg",
+                "dutch": "de zwarte wapenvlieg",
+                "english": "the black soldier fly",
+                "article": "Hermetia illucens"
+              },
+              {
+                "slug": "tseetseevlieg",
+                "dutch": "de tseetseevlieg",
+                "english": "the tsetse fly",
+                "article": "Tsetse fly"
+              }
+            ]
+          },
+          "mosquitoes": {
+            "title": "Mosquitoes and midges",
+            "dutchTitle": "Muggen",
+            "description": "Long antennae and thin legs. Only a few of them bite.",
+            "words": [
+              {
+                "slug": "steekmug",
+                "dutch": "de steekmug",
+                "english": "the mosquito",
+                "article": "Culex pipiens"
+              },
+              {
+                "slug": "malariamug",
+                "dutch": "de malariamug",
+                "english": "the malaria mosquito",
+                "article": "Anopheles"
+              },
+              {
+                "slug": "tijgermug",
+                "dutch": "de tijgermug",
+                "english": "the tiger mosquito",
+                "article": "Aedes albopictus"
+              },
+              {
+                "slug": "gelekoortsmug",
+                "dutch": "de gelekoortsmug",
+                "english": "the yellow fever mosquito",
+                "article": "Aedes aegypti"
+              },
+              {
+                "slug": "langpootmug",
+                "dutch": "de langpootmug",
+                "english": "the crane fly",
+                "article": "Crane fly"
+              },
+              {
+                "slug": "dansmug",
+                "dutch": "de dansmug",
+                "english": "the non-biting midge",
+                "article": "Chironomidae",
+                "author": "Entomart"
+              },
+              {
+                "slug": "knut",
+                "dutch": "de knut",
+                "english": "the biting midge",
+                "article": "Ceratopogonidae"
+              },
+              {
+                "slug": "kriebelmug",
+                "dutch": "de kriebelmug",
+                "english": "the black fly",
+                "article": "Black fly"
+              },
+              {
+                "slug": "motmug",
+                "dutch": "de motmug",
+                "english": "the drain fly",
+                "article": "Drain fly"
+              },
+              {
+                "slug": "rouwmug",
+                "dutch": "de rouwmug",
+                "english": "the fungus gnat",
+                "article": "Sciaridae"
+              },
+              {
+                "slug": "galmug",
+                "dutch": "de galmug",
+                "english": "the gall midge",
+                "article": "Cecidomyiidae"
+              },
+              {
+                "slug": "wintermug",
+                "dutch": "de wintermug",
+                "english": "the winter gnat",
+                "article": "Trichoceridae",
+                "author": "Entomart"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "title": "Dragonflies and damselflies",
+        "dutchTitle": "Libellen en juffers",
+        "topics": {
+          "dragonflies": {
+            "title": "Dragonflies",
+            "dutchTitle": "Libellen",
+            "description": "They rest with their wings spread and hunt over every Dutch ditch.",
+            "words": [
+              {
+                "slug": "libel",
+                "dutch": "de libel",
+                "english": "the dragonfly",
+                "article": "Dragonfly"
+              },
+              {
+                "slug": "grote-keizerlibel",
+                "dutch": "de grote keizerlibel",
+                "english": "the emperor dragonfly",
+                "article": "Emperor (dragonfly)"
+              },
+              {
+                "slug": "blauwe-glazenmaker",
+                "dutch": "de blauwe glazenmaker",
+                "english": "the southern hawker",
+                "article": "Southern hawker"
+              },
+              {
+                "slug": "bruine-glazenmaker",
+                "dutch": "de bruine glazenmaker",
+                "english": "the brown hawker",
+                "article": "Brown hawker"
+              },
+              {
+                "slug": "paardenbijter",
+                "dutch": "de paardenbijter",
+                "english": "the migrant hawker",
+                "article": "Migrant hawker",
+                "author": "Pierre Dalous"
+              },
+              {
+                "slug": "glassnijder",
+                "dutch": "de glassnijder",
+                "english": "the hairy dragonfly",
+                "article": "Hairy dragonfly"
+              },
+              {
+                "slug": "platbuik",
+                "dutch": "de platbuik",
+                "english": "the broad-bodied chaser",
+                "article": "Broad-bodied chaser"
+              },
+              {
+                "slug": "viervlek",
+                "dutch": "de viervlek",
+                "english": "the four-spotted chaser",
+                "article": "Four-spotted chaser"
+              },
+              {
+                "slug": "gewone-oeverlibel",
+                "dutch": "de gewone oeverlibel",
+                "english": "the black-tailed skimmer",
+                "article": "Black-tailed skimmer"
+              },
+              {
+                "slug": "bloedrode-heidelibel",
+                "dutch": "de bloedrode heidelibel",
+                "english": "the ruddy darter",
+                "article": "Ruddy darter"
+              },
+              {
+                "slug": "bruinrode-heidelibel",
+                "dutch": "de bruinrode heidelibel",
+                "english": "the common darter",
+                "article": "Common darter"
+              },
+              {
+                "slug": "zwarte-heidelibel",
+                "dutch": "de zwarte heidelibel",
+                "english": "the black darter",
+                "article": "Black darter",
+                "file": "Black darter (Sympetrum danae) male.jpg",
+                "note": "Pinned: the article has no lead image."
+              },
+              {
+                "slug": "vuurlibel",
+                "dutch": "de vuurlibel",
+                "english": "the scarlet dragonfly",
+                "article": "Crocothemis erythraea"
+              },
+              {
+                "slug": "smaragdlibel",
+                "dutch": "de smaragdlibel",
+                "english": "the downy emerald",
+                "article": "Downy emerald"
+              },
+              {
+                "slug": "gewone-bronlibel",
+                "dutch": "de gewone bronlibel",
+                "english": "the golden-ringed dragonfly",
+                "article": "Cordulegaster boltonii"
+              }
+            ]
+          },
+          "damselflies": {
+            "title": "Damselflies",
+            "dutchTitle": "Juffers",
+            "description": "Thinner than a dragonfly, and they fold their wings when they land.",
+            "words": [
+              {
+                "slug": "waterjuffer",
+                "dutch": "de waterjuffer",
+                "english": "the damselfly",
+                "article": "Damselfly",
+                "file": "White-legged damselfly (45600872204).jpg",
+                "note": "Pinned: the article leads with the photograph de bosbeekjuffer uses."
+              },
+              {
+                "slug": "weidebeekjuffer",
+                "dutch": "de weidebeekjuffer",
+                "english": "the banded demoiselle",
+                "article": "Banded demoiselle"
+              },
+              {
+                "slug": "bosbeekjuffer",
+                "dutch": "de bosbeekjuffer",
+                "english": "the beautiful demoiselle",
+                "article": "Beautiful demoiselle"
+              },
+              {
+                "slug": "vuurjuffer",
+                "dutch": "de vuurjuffer",
+                "english": "the large red damselfly",
+                "article": "Large red damselfly"
+              },
+              {
+                "slug": "lantaarntje",
+                "dutch": "het lantaarntje",
+                "english": "the blue-tailed damselfly",
+                "article": "Blue-tailed damselfly"
+              },
+              {
+                "slug": "azuurwaterjuffer",
+                "dutch": "de azuurwaterjuffer",
+                "english": "the azure damselfly",
+                "article": "Azure damselfly"
+              },
+              {
+                "slug": "variabele-waterjuffer",
+                "dutch": "de variabele waterjuffer",
+                "english": "the variable damselfly",
+                "article": "Variable damselfly"
+              },
+              {
+                "slug": "watersnuffel",
+                "dutch": "de watersnuffel",
+                "english": "the common blue damselfly",
+                "article": "Common blue damselfly"
+              },
+              {
+                "slug": "grote-roodoogjuffer",
+                "dutch": "de grote roodoogjuffer",
+                "english": "the red-eyed damselfly",
+                "article": "Red-eyed damselfly"
+              },
+              {
+                "slug": "houtpantserjuffer",
+                "dutch": "de houtpantserjuffer",
+                "english": "the willow emerald damselfly",
+                "article": "Chalcolestes viridis"
+              },
+              {
+                "slug": "gewone-pantserjuffer",
+                "dutch": "de gewone pantserjuffer",
+                "english": "the emerald damselfly",
+                "article": "Lestes sponsa"
+              },
+              {
+                "slug": "bruine-winterjuffer",
+                "dutch": "de bruine winterjuffer",
+                "english": "the winter damselfly",
+                "article": "Sympecma fusca"
+              },
+              {
+                "slug": "blauwe-breedscheenjuffer",
+                "dutch": "de blauwe breedscheenjuffer",
+                "english": "the white-legged damselfly",
+                "article": "Platycnemis pennipes"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "title": "Grasshoppers and their kin",
+        "dutchTitle": "Sprinkhanen en verwanten",
+        "topics": {
+          "grasshoppers-and-crickets": {
+            "title": "Grasshoppers and crickets",
+            "dutchTitle": "Sprinkhanen en krekels",
+            "description": "The jumpers and the singers of the summer meadow.",
+            "words": [
+              {
+                "slug": "sprinkhaan",
+                "dutch": "de sprinkhaan",
+                "english": "the grasshopper",
+                "article": "Grasshopper"
+              },
+              {
+                "slug": "grote-groene-sabelsprinkhaan",
+                "dutch": "de grote groene sabelsprinkhaan",
+                "english": "the great green bush-cricket",
+                "article": "Tettigonia viridissima"
+              },
+              {
+                "slug": "boomsprinkhaan",
+                "dutch": "de boomsprinkhaan",
+                "english": "the oak bush-cricket",
+                "article": "Meconema thalassinum",
+                "author": "Entomart"
+              },
+              {
+                "slug": "bramensprinkhaan",
+                "dutch": "de bramensprinkhaan",
+                "english": "the dark bush-cricket",
+                "article": "Pholidoptera griseoaptera"
+              },
+              {
+                "slug": "greppelsprinkhaan",
+                "dutch": "de greppelsprinkhaan",
+                "english": "Roesel's bush-cricket",
+                "article": "Roesel's bush-cricket"
+              },
+              {
+                "slug": "struiksprinkhaan",
+                "dutch": "de struiksprinkhaan",
+                "english": "the speckled bush-cricket",
+                "article": "Speckled bush-cricket"
+              },
+              {
+                "slug": "ratelaar",
+                "dutch": "de ratelaar",
+                "english": "the bow-winged grasshopper",
+                "article": "Chorthippus biguttulus"
+              },
+              {
+                "slug": "bruine-sprinkhaan",
+                "dutch": "de bruine sprinkhaan",
+                "english": "the field grasshopper",
+                "article": "Chorthippus brunneus"
+              },
+              {
+                "slug": "krasser",
+                "dutch": "de krasser",
+                "english": "the meadow grasshopper",
+                "article": "Meadow grasshopper"
+              },
+              {
+                "slug": "moerassprinkhaan",
+                "dutch": "de moerassprinkhaan",
+                "english": "the large marsh grasshopper",
+                "article": "Large marsh grasshopper"
+              },
+              {
+                "slug": "blauwvleugelsprinkhaan",
+                "dutch": "de blauwvleugelsprinkhaan",
+                "english": "the blue-winged grasshopper",
+                "article": "Oedipoda caerulescens"
+              },
+              {
+                "slug": "doornsprinkhaan",
+                "dutch": "de doornsprinkhaan",
+                "english": "the groundhopper",
+                "article": "Tetrix subulata"
+              },
+              {
+                "slug": "treksprinkhaan",
+                "dutch": "de treksprinkhaan",
+                "english": "the migratory locust",
+                "article": "Migratory locust"
+              },
+              {
+                "slug": "krekel",
+                "dutch": "de krekel",
+                "english": "the cricket",
+                "article": "Cricket (insect)"
+              },
+              {
+                "slug": "veldkrekel",
+                "dutch": "de veldkrekel",
+                "english": "the field cricket",
+                "article": "Gryllus campestris"
+              },
+              {
+                "slug": "huiskrekel",
+                "dutch": "de huiskrekel",
+                "english": "the house cricket",
+                "article": "House cricket"
+              },
+              {
+                "slug": "veenmol",
+                "dutch": "de veenmol",
+                "english": "the mole cricket",
+                "article": "Gryllotalpa gryllotalpa"
+              }
+            ]
+          },
+          "mantises-and-cockroaches": {
+            "title": "Mantises, stick insects and cockroaches",
+            "dutchTitle": "Bidsprinkhanen, wandelende takken en kakkerlakken",
+            "description": "The hunters, the hiders and the ones nobody wants in the kitchen.",
+            "words": [
+              {
+                "slug": "bidsprinkhaan",
+                "dutch": "de bidsprinkhaan",
+                "english": "the praying mantis",
+                "article": "European mantis"
+              },
+              {
+                "slug": "orchideebidsprinkhaan",
+                "dutch": "de orchideebidsprinkhaan",
+                "english": "the orchid mantis",
+                "article": "Hymenopus coronatus"
+              },
+              {
+                "slug": "wandelende-tak",
+                "dutch": "de wandelende tak",
+                "english": "the stick insect",
+                "article": "Phasmatodea"
+              },
+              {
+                "slug": "wandelend-blad",
+                "dutch": "het wandelend blad",
+                "english": "the leaf insect",
+                "article": "Phylliidae",
+                "file": "Pulchriphyllium giganteum, adult femal from dorsal.jpg",
+                "note": "Pinned: the article leads with a grid of ten small photographs."
+              },
+              {
+                "slug": "kakkerlak",
+                "dutch": "de kakkerlak",
+                "english": "the cockroach",
+                "article": "Cockroach",
+                "file": "Blatta orientalis male from Botevgrad, Bulgaria 02.jpg",
+                "note": "Pinned: the article leads with a drawing of five species."
+              },
+              {
+                "slug": "duitse-kakkerlak",
+                "dutch": "de Duitse kakkerlak",
+                "english": "the German cockroach",
+                "article": "German cockroach"
+              },
+              {
+                "slug": "amerikaanse-kakkerlak",
+                "dutch": "de Amerikaanse kakkerlak",
+                "english": "the American cockroach",
+                "article": "American cockroach"
+              },
+              {
+                "slug": "sissende-kakkerlak",
+                "dutch": "de sissende kakkerlak",
+                "english": "the hissing cockroach",
+                "article": "Madagascar hissing cockroach"
+              },
+              {
+                "slug": "termiet",
+                "dutch": "de termiet",
+                "english": "the termite",
+                "article": "Termite"
+              },
+              {
+                "slug": "oorworm",
+                "dutch": "de oorworm",
+                "english": "the earwig",
+                "article": "Forficula auricularia"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "title": "Bugs, lice and fleas",
+        "dutchTitle": "Wantsen, luizen en vlooien",
+        "topics": {
+          "true-bugs": {
+            "title": "True bugs",
+            "dutchTitle": "Wantsen",
+            "description": "Insects with a beak to pierce and suck, on land and on the water.",
+            "words": [
+              {
+                "slug": "vuurwants",
+                "dutch": "de vuurwants",
+                "english": "the firebug",
+                "article": "Pyrrhocoris apterus"
+              },
+              {
+                "slug": "groene-schildwants",
+                "dutch": "de groene schildwants",
+                "english": "the green shield bug",
+                "article": "Palomena prasina"
+              },
+              {
+                "slug": "pyjamaschildwants",
+                "dutch": "de pyjamaschildwants",
+                "english": "the striped shield bug",
+                "article": "Graphosoma italicum"
+              },
+              {
+                "slug": "bessenschildwants",
+                "dutch": "de bessenschildwants",
+                "english": "the sloe bug",
+                "article": "Dolycoris baccarum"
+              },
+              {
+                "slug": "roodpootschildwants",
+                "dutch": "de roodpootschildwants",
+                "english": "the forest bug",
+                "article": "Pentatoma rufipes"
+              },
+              {
+                "slug": "zuringrandwants",
+                "dutch": "de zuringrandwants",
+                "english": "the dock bug",
+                "article": "Coreus marginatus"
+              },
+              {
+                "slug": "bladpootrandwants",
+                "dutch": "de bladpootrandwants",
+                "english": "the western conifer seed bug",
+                "article": "Western conifer seed bug"
+              },
+              {
+                "slug": "roofwants",
+                "dutch": "de roofwants",
+                "english": "the assassin bug",
+                "article": "Reduviidae"
+              },
+              {
+                "slug": "bedwants",
+                "dutch": "de bedwants",
+                "english": "the bed bug",
+                "article": "Bed bug",
+                "author": "Piotr Naskrecki / CDC"
+              },
+              {
+                "slug": "schaatsenrijder",
+                "dutch": "de schaatsenrijder",
+                "english": "the pond skater",
+                "article": "Gerridae"
+              },
+              {
+                "slug": "bootsmannetje",
+                "dutch": "het bootsmannetje",
+                "english": "the backswimmer",
+                "article": "Notonecta glauca"
+              },
+              {
+                "slug": "waterschorpioen",
+                "dutch": "de waterschorpioen",
+                "english": "the water scorpion",
+                "article": "Nepa cinerea",
+                "author": "Jeffdelonge"
+              },
+              {
+                "slug": "staafwants",
+                "dutch": "de staafwants",
+                "english": "the water stick insect",
+                "article": "Ranatra linearis"
+              },
+              {
+                "slug": "duikerwants",
+                "dutch": "de duikerwants",
+                "english": "the water boatman",
+                "article": "Corixidae"
+              }
+            ]
+          },
+          "cicadas-and-aphids": {
+            "title": "Cicadas and aphids",
+            "dutchTitle": "Cicaden en bladluizen",
+            "description": "The loudest insects and the smallest sap-suckers on a rose.",
+            "words": [
+              {
+                "slug": "cicade",
+                "dutch": "de cicade",
+                "english": "the cicada",
+                "article": "Cicada"
+              },
+              {
+                "slug": "schuimbeestje",
+                "dutch": "het schuimbeestje",
+                "english": "the froghopper",
+                "article": "Philaenus spumarius"
+              },
+              {
+                "slug": "bloedcicade",
+                "dutch": "de bloedcicade",
+                "english": "the red-and-black froghopper",
+                "article": "Cercopis vulnerata"
+              },
+              {
+                "slug": "rhododendroncicade",
+                "dutch": "de rhododendroncicade",
+                "english": "the rhododendron leafhopper",
+                "article": "Graphocephala fennahi"
+              },
+              {
+                "slug": "doorncicade",
+                "dutch": "de doorncicade",
+                "english": "the treehopper",
+                "article": "Treehopper"
+              },
+              {
+                "slug": "lantaarndrager",
+                "dutch": "de lantaarndrager",
+                "english": "the lanternfly",
+                "article": "Fulgoridae",
+                "author": "Richard Ling"
+              },
+              {
+                "slug": "bladluis",
+                "dutch": "de bladluis",
+                "english": "the aphid",
+                "article": "Aphid"
+              },
+              {
+                "slug": "schildluis",
+                "dutch": "de schildluis",
+                "english": "the scale insect",
+                "article": "Scale insect"
+              },
+              {
+                "slug": "wolluis",
+                "dutch": "de wolluis",
+                "english": "the mealybug",
+                "article": "Mealybug"
+              },
+              {
+                "slug": "witte-vlieg",
+                "dutch": "de witte vlieg",
+                "english": "the whitefly",
+                "article": "Whitefly",
+                "author": "gaucho"
+              },
+              {
+                "slug": "bladvlo",
+                "dutch": "de bladvlo",
+                "english": "the jumping plant louse",
+                "article": "Psyllidae"
+              }
+            ]
+          },
+          "small-and-ancient": {
+            "title": "Small and ancient",
+            "dutchTitle": "Klein en oeroud",
+            "description": "Fleas, lice and the quiet old orders: mayflies, lacewings and het zilvervisje.",
+            "words": [
+              {
+                "slug": "vlo",
+                "dutch": "de vlo",
+                "english": "the flea",
+                "article": "Flea",
+                "file": "Flea.JPG",
+                "note": "Pinned: the article leads with a false-colour micrograph."
+              },
+              {
+                "slug": "hoofdluis",
+                "dutch": "de hoofdluis",
+                "english": "the head louse",
+                "article": "Head louse"
+              },
+              {
+                "slug": "stofluis",
+                "dutch": "de stofluis",
+                "english": "the booklouse",
+                "article": "Psocoptera"
+              },
+              {
+                "slug": "trips",
+                "dutch": "de trips",
+                "english": "the thrips",
+                "article": "Thrips",
+                "file": "Frankliniella sp. - Guelph, Ontario 2017-06-21 (02).jpg",
+                "note": "Pinned: the article leads with a small drawing, 436 pixels wide."
+              },
+              {
+                "slug": "zilvervisje",
+                "dutch": "het zilvervisje",
+                "english": "the silverfish",
+                "article": "Silverfish"
+              },
+              {
+                "slug": "ovenvisje",
+                "dutch": "het ovenvisje",
+                "english": "the firebrat",
+                "article": "Firebrat"
+              },
+              {
+                "slug": "papiervisje",
+                "dutch": "het papiervisje",
+                "english": "the grey silverfish",
+                "article": "Ctenolepisma longicaudatum"
+              },
+              {
+                "slug": "eendagsvlieg",
+                "dutch": "de eendagsvlieg",
+                "english": "the mayfly",
+                "article": "Mayfly",
+                "author": "Richard Bartz"
+              },
+              {
+                "slug": "steenvlieg",
+                "dutch": "de steenvlieg",
+                "english": "the stonefly",
+                "article": "Plecoptera"
+              },
+              {
+                "slug": "kokerjuffer",
+                "dutch": "de kokerjuffer",
+                "english": "the caddisfly",
+                "article": "Caddisfly"
+              },
+              {
+                "slug": "gaasvlieg",
+                "dutch": "de gaasvlieg",
+                "english": "the lacewing",
+                "article": "Chrysopidae"
+              },
+              {
+                "slug": "mierenleeuw",
+                "dutch": "de mierenleeuw",
+                "english": "the antlion",
+                "article": "Antlion",
+                "author": "Entomart"
+              },
+              {
+                "slug": "schorpioenvlieg",
+                "dutch": "de schorpioenvlieg",
+                "english": "the scorpionfly",
+                "article": "Panorpa communis",
+                "author": "Richard Bartz"
+              },
+              {
+                "slug": "kameelhalsvlieg",
+                "dutch": "de kameelhalsvlieg",
+                "english": "the snakefly",
+                "article": "Snakefly"
+              },
+              {
+                "slug": "elzenvlieg",
+                "dutch": "de elzenvlieg",
+                "english": "the alderfly",
+                "article": "Sialis lutaria"
+              }
+            ]
+          }
+        }
+      }
+    ]
   }
 }

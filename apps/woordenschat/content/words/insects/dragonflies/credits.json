@@ -1,0 +1,122 @@
+{
+  "blauwe-glazenmaker": {
+    "artist": "Ebertakis",
+    "bytes": 45330,
+    "extension": "webp",
+    "file": "Southern_Hawker_Dragonfly_Bavaria_Germany.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "bloedrode-heidelibel": {
+    "artist": "Jörg Hempel",
+    "bytes": 48014,
+    "extension": "webp",
+    "file": "Sympetrum_sanguineum_LC0316.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+  },
+  "bruine-glazenmaker": {
+    "artist": "Darkone (talk · contribs)",
+    "bytes": 112004,
+    "extension": "webp",
+    "file": "Braune_Mosaikjungfer_(Aeshna_grandis).jpg",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  "bruinrode-heidelibel": {
+    "artist": "Loz (L. B. Tettenborn)",
+    "bytes": 47686,
+    "extension": "webp",
+    "file": "Sympetrum_striolatum_3(loz).jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "gewone-bronlibel": {
+    "artist": "Charles J. Sharp",
+    "bytes": 36700,
+    "extension": "webp",
+    "file": "Golden-ringed_dragonfly_(Cordulegaster_boltonii)_male.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "gewone-oeverlibel": {
+    "artist": "Charles J. Sharp",
+    "bytes": 30160,
+    "extension": "webp",
+    "file": "Black-tailed_skimmer_(Orthetrum_cancellatum)_male_2_Postojna.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "glassnijder": {
+    "artist": "Charles J. Sharp",
+    "bytes": 159004,
+    "extension": "webp",
+    "file": "Hairy_dragonfly_(Brachytron_pratense)_male_Burren.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "grote-keizerlibel": {
+    "artist": "Quartl",
+    "bytes": 85234,
+    "extension": "webp",
+    "file": "Anax_imperator_qtl2.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "libel": {
+    "artist": "Charles J. Sharp",
+    "bytes": 47542,
+    "extension": "webp",
+    "file": "Red_grasshawk_(Neurothemis_fluctuans)_male_Phuket_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "paardenbijter": {
+    "artist": "Pierre Dalous",
+    "bytes": 51446,
+    "extension": "webp",
+    "file": "Aesmix.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "platbuik": {
+    "artist": "Charles J. Sharp",
+    "bytes": 45008,
+    "extension": "webp",
+    "file": "Broad-bodied_chaser_(Libellula_depressa)_male_dorsal_side.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "smaragdlibel": {
+    "artist": "Charles J. Sharp",
+    "bytes": 65922,
+    "extension": "webp",
+    "file": "Downy_emerald_(Cordulia_aenea)_male.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "viervlek": {
+    "artist": "Charles J. Sharp",
+    "bytes": 44682,
+    "extension": "webp",
+    "file": "Four-spotted_chaser_dragonfly_(Libellula_quadrimaculata)_male.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "vuurlibel": {
+    "artist": "Charles J. Sharp",
+    "bytes": 55334,
+    "extension": "webp",
+    "file": "Broad_scarlet_(Crocothemis_erythraea)_male_Cyprus.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "zwarte-heidelibel": {
+    "artist": "Charles J. Sharp",
+    "bytes": 65576,
+    "extension": "webp",
+    "file": "Black darter (Sympetrum danae) male.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}

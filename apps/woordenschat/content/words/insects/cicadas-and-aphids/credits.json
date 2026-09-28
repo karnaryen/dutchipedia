@@ -1,0 +1,90 @@
+{
+  "bladluis": {
+    "artist": "Alvesgaspar",
+    "bytes": 110622,
+    "extension": "webp",
+    "file": "Aphids_September_2008-1.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "bladvlo": {
+    "artist": "Mick Talbot from Lincoln (U.K.), England",
+    "bytes": 18842,
+    "extension": "webp",
+    "file": "Psylla_alni.02.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "bloedcicade": {
+    "artist": "Hectonichus",
+    "bytes": 160816,
+    "extension": "webp",
+    "file": "Cercopidae_-_Cercopis_vulnerata.JPG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "cicade": {
+    "artist": "Judy Gallagher",
+    "bytes": 157676,
+    "extension": "webp",
+    "file": "Cicada_-_Neotibicen_linnei,_Woodbridge,_Virginia.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "doorncicade": {
+    "artist": "Didier Descouens",
+    "bytes": 140896,
+    "extension": "webp",
+    "file": "(MHNT)_Stictocephala_bisonia.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "lantaarndrager": {
+    "artist": "Richard Ling",
+    "bytes": 96388,
+    "extension": "webp",
+    "file": "Pyrops_candelaria.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "rhododendroncicade": {
+    "artist": "André Karwath aka Aka",
+    "bytes": 62924,
+    "extension": "webp",
+    "file": "Graphocephala_fennahi_(aka).jpg",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  "schildluis": {
+    "artist": "BARAKAT2011",
+    "bytes": 172924,
+    "extension": "webp",
+    "file": "Wax_Scale.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "schuimbeestje": {
+    "artist": "Didier Descouens",
+    "bytes": 98162,
+    "extension": "webp",
+    "file": "(MHNT)_Philaenus_spumarius.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "witte-vlieg": {
+    "artist": "gaucho",
+    "bytes": 30932,
+    "extension": "webp",
+    "file": "Weisse-Fliege.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "wolluis": {
+    "artist": "Crisco 1492",
+    "bytes": 43646,
+    "extension": "webp",
+    "file": "Mealybugs_on_flower_stem,_Yogyakarta,_2014-10-31.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}

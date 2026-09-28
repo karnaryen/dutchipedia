@@ -1,0 +1,146 @@
+{
+  "aardhommel": {
+    "artist": "Marco Almbauer",
+    "bytes": 57626,
+    "extension": "webp",
+    "file": "Bombus_terrestris.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "akkerhommel": {
+    "artist": "André Karwath aka Aka",
+    "bytes": 102064,
+    "extension": "webp",
+    "file": "Bombus_pascuorum_female_2_(aka).jpg",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  "asbij": {
+    "artist": "orangeaurochs",
+    "bytes": 70106,
+    "extension": "webp",
+    "file": "Andrena_cineraria.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "behangersbij": {
+    "artist": "The Packer Lab",
+    "bytes": 52062,
+    "extension": "webp",
+    "file": "Megachile_centuncularis_Male.jpg",
+    "license": "Attribution",
+    "licenseUrl": ""
+  },
+  "boomhommel": {
+    "artist": "Charles J. Sharp",
+    "bytes": 43200,
+    "extension": "webp",
+    "file": "Tree_bumblebee_(Bombus_hypnorum).jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "gehoornde-metselbij": {
+    "artist": "Gilles San Martin",
+    "bytes": 84040,
+    "extension": "webp",
+    "file": "Male_and_female_Osmia_cornuta_-_La_Pairelle.jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "hommel": {
+    "artist": "Ivar Leidus",
+    "bytes": 69914,
+    "extension": "webp",
+    "file": "Bombus_lapidarius_-_Melilotus_officinalis_-_Tallinn.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "honingbij": {
+    "artist": "Andreas Trepte",
+    "bytes": 85484,
+    "extension": "webp",
+    "file": "Apis_mellifera_Western_honey_bee.jpg",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  "houtbij": {
+    "artist": "Gideon Pisanty (Gidip) גדעון פיזנטי",
+    "bytes": 100606,
+    "extension": "webp",
+    "file": "Xylocopa_violacea_female_1.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "klimopbij": {
+    "artist": "Didier Descouens",
+    "bytes": 184546,
+    "extension": "webp",
+    "file": "(MHNT)_Colletes_hederae_on_Hederae_inflorescence.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "pluimvoetbij": {
+    "artist": "Christian Fischer",
+    "bytes": 134488,
+    "extension": "webp",
+    "file": "DasypodaHirtipesFemale1.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "rosse-metselbij": {
+    "artist": "André Karwath aka Aka",
+    "bytes": 186284,
+    "extension": "webp",
+    "file": "Osmia_rufa_couple_(aka).jpg",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  "sachembij": {
+    "artist": "pjt56",
+    "bytes": 88956,
+    "extension": "webp",
+    "file": "Anthophora_plumipes_male.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "steenhommel": {
+    "artist": "Ivar Leidus",
+    "bytes": 82406,
+    "extension": "webp",
+    "file": "Bombus_lapidarius_queen_-_Echium_vulgare_-_Keila.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "tuinhommel": {
+    "artist": "Ivar Leidus",
+    "bytes": 78692,
+    "extension": "webp",
+    "file": "Bombus_hortorum_-_Linaria_vulgaris_-_Valingu.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "vosje": {
+    "artist": "Entomart",
+    "bytes": 56248,
+    "extension": "webp",
+    "file": "Andrena_fulva01.jpg",
+    "license": "Attribution",
+    "licenseUrl": ""
+  },
+  "weidehommel": {
+    "artist": "Ivar Leidus",
+    "bytes": 72722,
+    "extension": "webp",
+    "file": "Bombus_pratorum_(male)_-_Knautia_arvensis_-_Keila.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "wolbij": {
+    "artist": "Bruce Marlin",
+    "bytes": 80992,
+    "extension": "webp",
+    "file": "Anthidium_manicatum_male.jpg",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+  }
+}

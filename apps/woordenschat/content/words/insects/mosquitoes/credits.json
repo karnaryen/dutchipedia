@@ -1,0 +1,98 @@
+{
+  "dansmug": {
+    "artist": "Entomart",
+    "bytes": 43882,
+    "extension": "webp",
+    "file": "Chironomus_plumosus01.jpg",
+    "license": "Attribution",
+    "licenseUrl": ""
+  },
+  "galmug": {
+    "artist": "Alvesgaspar",
+    "bytes": 69138,
+    "extension": "webp",
+    "file": "Fly_December_2007-4.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "gelekoortsmug": {
+    "artist": "Muhammad Mahdi Karim",
+    "bytes": 26900,
+    "extension": "webp",
+    "file": "Aedes_aegypti.jpg",
+    "license": "GFDL 1.2",
+    "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html"
+  },
+  "knut": {
+    "artist": "Scott Bauer, USDA ARS",
+    "bytes": 52714,
+    "extension": "webp",
+    "file": "BitingMidge.jpg",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "kriebelmug": {
+    "artist": "AJC1",
+    "bytes": 67638,
+    "extension": "webp",
+    "file": "Blackfly.jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "langpootmug": {
+    "artist": "Alvesgaspar",
+    "bytes": 61600,
+    "extension": "webp",
+    "file": "Tipulidae_April_2008-2.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "malariamug": {
+    "artist": "Jim Gathany",
+    "bytes": 46904,
+    "extension": "webp",
+    "file": "Anopheles_stephensi.jpeg",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "motmug": {
+    "artist": "Sanjay Acharya",
+    "bytes": 45820,
+    "extension": "webp",
+    "file": "Clogmia_Albipunctata_or_moth_fly.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "rouwmug": {
+    "artist": "gailhampshire from Cradley, Malvern, U.K",
+    "bytes": 101136,
+    "extension": "webp",
+    "file": "Sciara_hemerobioides_-_Flickr_-_gailhampshire.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "steekmug": {
+    "artist": "Alvesgaspar",
+    "bytes": 10110,
+    "extension": "webp",
+    "file": "Culex_pipiens_2007-1.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "tijgermug": {
+    "artist": "James Gathany, CDC",
+    "bytes": 43300,
+    "extension": "webp",
+    "file": "CDC-Gathany-Aedes-albopictus-1.jpg",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "wintermug": {
+    "artist": "Entomart",
+    "bytes": 70882,
+    "extension": "webp",
+    "file": "Trichocera_hiemalis.jpg",
+    "license": "Attribution",
+    "licenseUrl": ""
+  }
+}

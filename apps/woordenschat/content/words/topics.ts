@@ -4,8 +4,16 @@ import type { WordSection, WordTopic } from '@/features/words/types';
 import { body } from './body/body';
 import { cats } from './cats/cats';
 import { dogs } from './dogs/dogs';
+import { insects } from './insects/insects';
 import { instruments } from './instruments/instruments';
 import { trees } from './trees/trees';
 
 /** Every topic and section, in the order it is listed on the index page. */
-export const wordTopics: (WordTopic | WordSection)[] = [trees, cats, dogs, instruments, body];
+export const wordTopics: (WordTopic | WordSection)[] = [
+  trees,
+  cats,
+  dogs,
+  instruments,
+  body,
+  insects,
+];

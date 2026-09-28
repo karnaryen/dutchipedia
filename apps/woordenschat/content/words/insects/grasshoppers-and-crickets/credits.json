@@ -1,0 +1,138 @@
+{
+  "blauwvleugelsprinkhaan": {
+    "artist": "Charles J. Sharp",
+    "bytes": 130220,
+    "extension": "webp",
+    "file": "Blue-winged_grasshopper_(Oedipoda_caerulescens)_male.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "boomsprinkhaan": {
+    "artist": "Entomart",
+    "bytes": 92192,
+    "extension": "webp",
+    "file": "Meconema_thalassinum01.jpg",
+    "license": "Attribution",
+    "licenseUrl": ""
+  },
+  "bramensprinkhaan": {
+    "artist": "Hectonichus",
+    "bytes": 174594,
+    "extension": "webp",
+    "file": "Tettigoniidae_-_Pholidoptera_griseoaptera.JPG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "bruine-sprinkhaan": {
+    "artist": "Alvesgaspar",
+    "bytes": 45676,
+    "extension": "webp",
+    "file": "Grasshopper_April_2008-3.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "doornsprinkhaan": {
+    "artist": "Bj.schoenmakers",
+    "bytes": 45674,
+    "extension": "webp",
+    "file": "Tetrix_subulata_(Tetrigidae_sp.),_Elst_(Gld),_the_Netherlands.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "greppelsprinkhaan": {
+    "artist": "Richard Bartz, Munich aka Makro Freak",
+    "bytes": 165468,
+    "extension": "webp",
+    "file": "Metrioptera_roeseli_male_Richard_Bartz.jpg",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  "grote-groene-sabelsprinkhaan": {
+    "artist": "Didier Descouens",
+    "bytes": 130798,
+    "extension": "webp",
+    "file": "(MHNT)_Tettigonia_viridissima_on_Avena_fatua.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "huiskrekel": {
+    "artist": "Geyersberg, Professor emeritus Hans Schneider",
+    "bytes": 60046,
+    "extension": "webp",
+    "file": "Acheta_domesticus,_adultes_Weibchen.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "krasser": {
+    "artist": "G.-U. Tolkiehn",
+    "bytes": 64258,
+    "extension": "webp",
+    "file": "Chorthippus_parallelus_1944.jpg",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+  },
+  "krekel": {
+    "artist": "Didier Descouens",
+    "bytes": 54758,
+    "extension": "webp",
+    "file": "Gryllus_campestris_MHNT.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "moerassprinkhaan": {
+    "artist": "Aiwok",
+    "bytes": 39882,
+    "extension": "webp",
+    "file": "Stethophyma_grossum_m1.JPG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "ratelaar": {
+    "artist": "G.-U. Tolkiehn",
+    "bytes": 101750,
+    "extension": "webp",
+    "file": "Chorthippus_biguttulus_f_8835.jpg",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+  },
+  "sprinkhaan": {
+    "artist": "http://www.birdphotos.com",
+    "bytes": 67882,
+    "extension": "webp",
+    "file": "American_Bird_Grasshopper.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "struiksprinkhaan": {
+    "artist": "Fritz Geller-Grimm",
+    "bytes": 42820,
+    "extension": "webp",
+    "file": "Leptophyes_punctatissima_fg06.jpg",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  "treksprinkhaan": {
+    "artist": "Jonathan Hornung",
+    "bytes": 43400,
+    "extension": "webp",
+    "file": "Wanderheuschrecke-03.jpg",
+    "license": "CC BY-SA 2.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en"
+  },
+  "veenmol": {
+    "artist": "Eszter Kovács",
+    "bytes": 48432,
+    "extension": "webp",
+    "file": "Gryllotalpa_gryllotalpa_vorne-oben.jpg",
+    "license": "CC BY-SA 2.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en"
+  },
+  "veldkrekel": {
+    "artist": "Roberto Zanon",
+    "bytes": 223204,
+    "extension": "webp",
+    "file": "Gryllus_campestris_3.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  }
+}
