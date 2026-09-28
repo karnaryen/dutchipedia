@@ -1,0 +1,6 @@
+# One Netlify site per zone. In the site's build settings, leave the base
+# directory empty and set the package directory to apps/home — that is what
+# makes Netlify read this file. Paths here are relative to the repo root.
+[build]
+  command = "pnpm --filter @dutchipedia/home build"
+  publish = "apps/home/.next"
